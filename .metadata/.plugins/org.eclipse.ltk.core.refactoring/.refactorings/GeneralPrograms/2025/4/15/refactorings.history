@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Common_Package.Sort_DutchNationalFlag&apos; to &apos;DutchNationalFlagSort&apos;&#x0D;&#x0A;- Original project: &apos;GeneralPrograms&apos;&#x0D;&#x0A;- Original element: &apos;Common_Package.Sort_DutchNationalFlag&apos;&#x0D;&#x0A;- Renamed element: &apos;Common_Package.DutchNationalFlagSort&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Sort_DutchNationalFlag&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Common_Package{Sort_DutchNationalFlag.java[Sort_DutchNationalFlag" matchStrategy="1" name="DutchNationalFlagSort" qualified="false" references="true" similarDeclarations="false" stamp="1744312257321" textual="false" version="1.0"/>
+</session>

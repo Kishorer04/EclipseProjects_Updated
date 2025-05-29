@@ -1,0 +1,40 @@
+2022-11-30 13:06:34,707 [main] INFO Default test - Chrome opened
+2022-11-30 13:06:42,415 [main] INFO Default test - Google opened in chrome
+2022-11-30 13:07:09,247 [main] INFO Default test - send keys
+2022-11-30 13:08:34,696 [main] INFO Default test - Chrome opened
+2022-11-30 13:08:45,085 [main] INFO Default test - Google opened in chrome
+2022-11-30 13:09:07,044 [main] INFO Default test - send keys
+2022-11-30 13:15:15,616 [main] INFO Default test - Chrome opened
+2022-11-30 13:15:17,070 [main] INFO Default test - Google opened in chrome
+2022-11-30 14:11:02,770 [main] INFO Default test - Chrome opened
+2022-11-30 14:11:04,030 [main] INFO Default test - Google opened in chrome
+2022-11-30 14:11:06,802 [main] INFO Default test - send keys
+2022-11-30 14:20:07,993 [main] INFO Chrome - Chrome opened
+2022-11-30 14:20:09,345 [main] INFO Chrome - Google opened in chrome
+2022-11-30 14:20:12,275 [main] INFO Chrome - send keys
+2022-11-30 14:28:34,610 [main] INFO Chrome - Chrome opened
+2022-11-30 14:28:35,743 [main] INFO Chrome - Google opened in chrome
+2022-11-30 14:28:38,376 [main] INFO Chrome - send keys
+2022-11-30 14:29:26,549 [main] INFO firefox - Opened browser
+2022-11-30 14:29:26,690 [main] INFO firefox - send keys firefox
+2022-11-30 14:34:21,291 [main] INFO firefox - Opened browser
+2022-11-30 14:34:21,469 [main] INFO firefox - send keys firefox
+2022-11-30 14:37:08,688 [main] INFO edge - Edge browser opened
+2022-11-30 14:37:11,237 [main] INFO edge - Edge sent input
+2022-11-30 14:37:33,060 [TestNG-test=Test-1] INFO Chrome - Chrome opened
+2022-11-30 14:37:35,982 [TestNG-test=Test-3] INFO edge - Edge browser opened
+2022-11-30 14:37:36,250 [TestNG-test=Test-1] INFO Chrome - Google opened in chrome
+2022-11-30 14:37:38,574 [TestNG-test=Test-3] INFO edge - Edge sent input
+2022-11-30 14:37:39,103 [TestNG-test=Test-2] INFO firefox - Opened browser
+2022-11-30 14:37:39,246 [TestNG-test=Test-2] INFO firefox - send keys firefox
+2022-11-30 14:37:40,544 [TestNG-test=Test-1] INFO Chrome - send keys
+2022-12-02 11:32:17,250 [TestNG-test=Test-1] INFO Chrome - Chrome opened
+2022-12-02 11:32:18,961 [TestNG-test=Test-3] INFO edge - Edge browser opened
+2022-12-02 11:32:19,913 [TestNG-test=Test-1] INFO Chrome - Google opened in chrome
+2022-12-02 11:32:21,768 [TestNG-test=Test-3] INFO edge - Edge sent input
+2022-12-02 11:32:23,181 [TestNG-test=Test-1] INFO Chrome - send keys
+2022-12-02 11:32:26,562 [TestNG-test=Test-2] INFO firefox - Opened browser
+2022-12-02 11:32:26,911 [TestNG-test=Test-2] INFO firefox - send keys firefox
+2022-12-02 11:38:36,400 [main] INFO Chrome - Chrome opened
+2022-12-02 11:38:38,098 [main] INFO Chrome - Google opened in chrome
+2022-12-02 11:38:40,938 [main] INFO Chrome - send keys

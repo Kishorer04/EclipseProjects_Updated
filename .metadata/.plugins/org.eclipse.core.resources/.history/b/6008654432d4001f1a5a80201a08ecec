@@ -1,0 +1,11 @@
+package practicelinkedlist;
+
+public class DoublyDemo {
+	
+	public static void main(String[] args) {
+		DoublyLinkedList dlist = new DoublyLinkedList();
+		
+		dlist.insertAtBeginning(5);
+	}
+
+}

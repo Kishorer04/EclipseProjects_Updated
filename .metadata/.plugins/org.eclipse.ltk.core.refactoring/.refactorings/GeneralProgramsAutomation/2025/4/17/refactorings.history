@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;generalprograms.BrokenLinks&apos; to &apos;BrokenLinks_YadagiriReddy&apos;&#x0D;&#x0A;- Original project: &apos;GeneralProgramsAutomation&apos;&#x0D;&#x0A;- Original element: &apos;generalprograms.BrokenLinks&apos;&#x0D;&#x0A;- Renamed element: &apos;generalprograms.BrokenLinks_YadagiriReddy&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BrokenLinks&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;generalprograms{BrokenLinks.java[BrokenLinks" matchStrategy="1" name="BrokenLinks_YadagiriReddy" qualified="false" references="true" similarDeclarations="false" stamp="1745160526748" textual="false" version="1.0"/>
+</session>

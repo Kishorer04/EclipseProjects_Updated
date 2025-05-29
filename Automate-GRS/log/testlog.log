@@ -1,0 +1,2275 @@
+2022-10-13 13:43:20,005 - myproject -INFO - Reading Excel Sheet
+2022-10-13 13:43:31,880 - myproject -INFO - Opened Browser
+2022-10-13 13:43:32,076 - myproject -INFO - Clicked Link
+2022-10-13 13:43:41,133 - myproject -INFO - Opened Browser
+2022-10-13 13:43:41,292 - myproject -INFO - Clicked Link
+2022-10-13 13:43:47,789 - myproject -INFO - Opened Browser
+2022-10-13 13:43:47,954 - myproject -INFO - Clicked Link
+2022-10-13 13:43:50,622 - myproject -INFO - Opened Browser
+2022-10-13 13:43:50,772 - myproject -INFO - Clicked Link
+2022-10-13 13:43:54,529 - myproject -INFO - Quit Browser
+2022-10-13 16:31:06,199 - myproject -INFO - Reading Excel Sheet
+2022-10-13 16:31:16,027 - myproject -INFO - Opened Browser
+2022-10-13 16:31:16,185 - myproject -INFO - Clicked Link
+2022-10-13 16:31:25,215 - myproject -INFO - Opened Browser
+2022-10-13 16:31:25,363 - myproject -INFO - Clicked Link
+2022-10-13 16:31:35,561 - myproject -INFO - Reading Excel Sheet
+2022-10-13 16:31:44,259 - myproject -INFO - Opened Browser
+2022-10-13 16:31:44,433 - myproject -INFO - Clicked Link
+2022-10-13 16:31:52,076 - myproject -INFO - Opened Browser
+2022-10-13 16:31:52,228 - myproject -INFO - Clicked Link
+2022-10-13 16:40:57,972 - myproject -INFO - Reading Excel Sheet
+2022-10-13 16:41:06,444 - myproject -INFO - Opened Browser
+2022-10-13 16:41:06,595 - myproject -INFO - Clicked Link
+2022-10-13 16:41:14,227 - myproject -INFO - Opened Browser
+2022-10-13 16:41:14,375 - myproject -INFO - Clicked Link
+2022-10-13 16:41:20,435 - myproject -INFO - Opened Browser
+2022-10-13 16:41:20,587 - myproject -INFO - Clicked Link
+2022-10-13 17:30:59,638 - myproject -INFO - Reading Excel Sheet
+2022-10-13 17:31:08,611 - myproject -INFO - Opened Browser
+2022-10-13 17:31:08,764 - myproject -INFO - Clicked Link
+2022-10-13 17:31:16,350 - myproject -INFO - Opened Browser
+2022-10-13 17:31:16,498 - myproject -INFO - Clicked Link
+2022-10-13 17:31:21,295 - myproject -INFO - Opened Browser
+2022-10-13 17:31:21,444 - myproject -INFO - Clicked Link
+2022-10-13 23:48:28,013 - myproject -INFO - Reading Excel Sheet
+2022-10-14 10:44:41,895 - myproject -INFO - Reading Excel Sheet
+2022-10-14 10:44:45,160 - myproject -INFO - in func library
+2022-10-14 10:44:54,809 - myproject -INFO - Opened Browser
+2022-10-14 10:44:55,031 - myproject -INFO - Clicked Link
+2022-10-14 10:44:55,033 - myproject -INFO - im in button
+2022-10-14 10:44:57,272 - myproject -INFO - im in dropdown
+2022-10-14 10:45:00,809 - myproject -INFO - im in dropdown
+2022-10-14 10:45:01,387 - myproject -INFO - im in dropdown
+2022-10-14 10:45:02,033 - myproject -INFO - im in dropdown
+2022-10-14 10:45:02,379 - myproject -INFO - im in calendar
+2022-10-14 10:45:03,695 - myproject -INFO - im in dropdown
+2022-10-14 10:45:04,616 - myproject -INFO - im in texbox
+2022-10-14 10:45:04,837 - myproject -INFO - im in calendar
+2022-10-14 10:45:05,262 - myproject -INFO - im in button
+2022-10-14 10:45:05,489 - myproject -INFO - im in button
+2022-10-14 10:45:05,636 - myproject -INFO - im in button
+2022-10-14 10:45:05,836 - myproject -INFO - im in button
+2022-10-14 10:45:05,979 - myproject -INFO - im in button
+2022-10-14 10:45:06,188 - myproject -INFO - im in button
+2022-10-14 10:45:06,306 - myproject -INFO - im in button
+2022-10-14 10:45:06,488 - myproject -INFO - im in texbox
+2022-10-14 10:45:06,590 - myproject -INFO - im in texbox
+2022-10-14 10:45:06,748 - myproject -INFO - im in button
+2022-10-14 10:45:06,895 - myproject -INFO - im in button
+2022-10-14 10:45:12,232 - myproject -INFO - in func library
+2022-10-14 10:45:12,232 - myproject -INFO - Opened Browser
+2022-10-14 10:45:12,399 - myproject -INFO - Clicked Link
+2022-10-14 10:45:12,400 - myproject -INFO - im in button
+2022-10-14 10:45:14,504 - myproject -INFO - im in dropdown
+2022-10-14 10:45:15,759 - myproject -INFO - im in dropdown
+2022-10-14 10:45:16,330 - myproject -INFO - im in dropdown
+2022-10-14 10:45:16,633 - myproject -INFO - im in button
+2022-10-14 10:45:16,721 - myproject -INFO - im in calendar
+2022-10-14 10:45:16,937 - myproject -INFO - im in calendar
+2022-10-14 10:45:17,227 - myproject -INFO - im in texbox
+2022-10-14 10:45:17,399 - myproject -INFO - im in calendar
+2022-10-14 10:45:17,760 - myproject -INFO - im in texbox
+2022-10-14 10:45:17,859 - myproject -INFO - im in texbox
+2022-10-14 10:45:17,908 - myproject -INFO - im in texbox
+2022-10-14 10:45:18,042 - myproject -INFO - im in button
+2022-10-14 10:45:18,129 - myproject -INFO - im in button
+2022-10-14 10:45:19,463 - myproject -INFO - in func library
+2022-10-14 10:45:19,463 - myproject -INFO - Opened Browser
+2022-10-14 10:45:19,628 - myproject -INFO - Clicked Link
+2022-10-14 10:45:19,629 - myproject -INFO - im in button
+2022-10-14 10:45:21,498 - myproject -INFO - im in button
+2022-10-14 10:45:21,696 - myproject -INFO - im in button
+2022-10-14 12:18:07,893 - myproject -INFO - Reading Excel Sheet
+2022-10-14 12:18:09,291 - myproject -INFO - in func library
+2022-10-14 12:18:17,511 - myproject -INFO - Opened Browser
+2022-10-14 12:18:17,512 - myproject -INFO - in func library
+2022-10-14 12:19:10,215 - myproject -INFO - Reading Excel Sheet
+2022-10-14 12:19:11,685 - myproject -INFO - in func library
+2022-10-14 12:19:20,059 - myproject -INFO - Opened Browser
+2022-10-14 12:19:20,060 - myproject -INFO - in func library
+2022-10-14 12:21:52,272 - myproject -INFO - Reading Excel Sheet
+2022-10-14 12:21:53,826 - myproject -INFO - in func library
+2022-10-14 12:22:01,825 - myproject -INFO - Opened Browser
+2022-10-14 12:22:01,826 - myproject -INFO - in func library
+2022-10-14 12:25:41,815 - myproject -INFO - Reading Excel Sheet
+2022-10-14 12:25:43,314 - myproject -INFO - in func library
+2022-10-14 12:25:52,837 - myproject -INFO - Opened Browser
+2022-10-14 12:25:52,838 - myproject -INFO - in func library
+2022-10-14 12:35:27,877 - myproject -INFO - Reading Excel Sheet
+2022-10-14 12:35:29,467 - myproject -INFO - in func library
+2022-10-14 12:35:32,640 - myproject -INFO - Opened Browser
+2022-10-14 12:35:32,641 - myproject -INFO - in func library
+2022-10-14 12:35:41,582 - myproject -INFO - Opened Browser
+2022-10-14 12:35:41,583 - myproject -INFO - in func library
+2022-10-14 12:35:50,534 - myproject -INFO - Opened Browser
+2022-10-14 12:35:50,535 - myproject -INFO - in func library
+2022-10-14 12:37:34,334 - myproject -INFO - Reading Excel Sheet
+2022-10-14 12:37:35,769 - myproject -INFO - in func library
+2022-10-14 12:37:45,499 - myproject -INFO - Opened Browser
+2022-10-14 12:37:45,500 - myproject -INFO - in func library
+2022-10-14 12:40:17,804 - myproject -INFO - Reading Excel Sheet
+2022-10-14 12:40:19,229 - myproject -INFO - in func library
+2022-10-14 12:40:28,773 - myproject -INFO - Opened Browser
+2022-10-14 12:40:28,774 - myproject -INFO - in func library
+2022-10-14 12:42:39,692 - myproject -INFO - Reading Excel Sheet
+2022-10-14 12:42:41,218 - myproject -INFO - in func library
+2022-10-14 12:42:51,218 - myproject -INFO - Opened Browser
+2022-10-14 12:42:51,218 - myproject -INFO - in func library
+2022-10-14 12:44:54,543 - myproject -INFO - Reading Excel Sheet
+2022-10-14 12:44:56,048 - myproject -INFO - in func library
+2022-10-14 12:45:07,249 - myproject -INFO - Opened Browser
+2022-10-14 12:45:07,250 - myproject -INFO - in func library
+2022-10-14 12:46:29,601 - myproject -INFO - Reading Excel Sheet
+2022-10-14 12:46:31,430 - myproject -INFO - in func library
+2022-10-14 12:47:22,582 - myproject -INFO - Opened Browser
+2022-10-14 12:56:08,417 - myproject -INFO - Reading Excel Sheet
+2022-10-14 12:56:09,837 - myproject -INFO - in func library
+2022-10-14 12:56:20,607 - myproject -INFO - Opened Browser
+2022-10-14 12:56:20,754 - myproject -INFO - im in button
+2022-10-14 12:56:25,165 - myproject -INFO - im in dropdown
+2022-10-14 12:56:25,280 - myproject -INFO - im in dropdown
+2022-10-14 12:56:25,425 - myproject -INFO - im in dropdown
+2022-10-14 12:56:25,868 - myproject -INFO - im in dropdown
+2022-10-14 12:56:25,996 - myproject -INFO - im in calendar
+2022-10-14 12:56:26,911 - myproject -INFO - im in dropdown
+2022-10-14 12:56:27,557 - myproject -INFO - im in texbox
+2022-10-14 12:56:27,628 - myproject -INFO - im in calendar
+2022-10-14 12:56:27,780 - myproject -INFO - im in button
+2022-10-14 12:56:27,838 - myproject -INFO - im in button
+2022-10-14 12:56:27,890 - myproject -INFO - im in button
+2022-10-14 12:56:27,960 - myproject -INFO - im in button
+2022-10-14 12:56:28,028 - myproject -INFO - im in button
+2022-10-14 12:56:28,095 - myproject -INFO - im in button
+2022-10-14 12:56:28,127 - myproject -INFO - im in button
+2022-10-14 12:56:28,188 - myproject -INFO - im in texbox
+2022-10-14 12:56:28,215 - myproject -INFO - im in texbox
+2022-10-14 12:56:28,265 - myproject -INFO - im in button
+2022-10-14 12:56:28,315 - myproject -INFO - im in button
+2022-10-14 14:23:01,960 - myproject -INFO - Reading Excel Sheet
+2022-10-14 14:23:03,867 - myproject -INFO - in func library
+2022-10-14 14:23:39,130 - myproject -INFO - Opened Browser
+2022-10-14 14:24:45,918 - myproject -INFO - Reading Excel Sheet
+2022-10-14 14:24:47,531 - myproject -INFO - in func library
+2022-10-14 14:24:58,315 - myproject -INFO - Opened Browser
+2022-10-14 14:25:03,458 - myproject -INFO - im in button
+2022-10-14 14:25:05,087 - myproject -INFO - im in dropdown
+2022-10-14 14:25:05,195 - myproject -INFO - im in dropdown
+2022-10-14 14:25:05,309 - myproject -INFO - im in dropdown
+2022-10-14 14:25:07,701 - myproject -INFO - im in dropdown
+2022-10-14 14:30:55,819 - myproject -INFO - Reading Excel Sheet
+2022-10-14 14:30:57,549 - myproject -INFO - in func library
+2022-10-14 14:31:08,730 - myproject -INFO - Opened Browser
+2022-10-14 14:31:08,934 - myproject -INFO - im in button
+2022-10-14 14:31:12,633 - myproject -INFO - im in dropdown
+2022-10-14 14:31:12,835 - myproject -INFO - im in dropdown
+2022-10-14 14:31:13,201 - myproject -INFO - im in dropdown
+2022-10-14 14:31:13,856 - myproject -INFO - im in dropdown
+2022-10-14 14:44:59,698 - myproject -INFO - Reading Excel Sheet
+2022-10-14 14:45:02,315 - myproject -INFO - in func library
+2022-10-14 14:45:13,523 - myproject -INFO - Opened Browser
+2022-10-14 14:45:18,714 - myproject -INFO - im in button
+2022-10-14 14:45:20,302 - myproject -INFO - im in dropdown
+2022-10-14 14:45:22,011 - myproject -INFO - im in dropdown
+2022-10-14 14:45:22,219 - myproject -INFO - im in dropdown
+2022-10-14 14:45:22,862 - myproject -INFO - im in dropdown
+2022-10-14 14:53:26,539 - myproject -INFO - Reading Excel Sheet
+2022-10-14 14:53:29,152 - myproject -INFO - in func library
+2022-10-14 14:53:39,928 - myproject -INFO - Opened Browser
+2022-10-14 14:53:45,120 - myproject -INFO - im in button
+2022-10-14 14:53:46,896 - myproject -INFO - im in dropdown
+2022-10-14 14:53:48,743 - myproject -INFO - im in dropdown
+2022-10-14 14:53:49,082 - myproject -INFO - im in dropdown
+2022-10-14 14:53:49,723 - myproject -INFO - im in dropdown
+2022-10-14 14:57:02,198 - myproject -INFO - Reading Excel Sheet
+2022-10-14 14:57:05,139 - myproject -INFO - in func library
+2022-10-14 14:57:15,869 - myproject -INFO - Opened Browser
+2022-10-14 14:57:21,057 - myproject -INFO - im in button
+2022-10-14 14:57:22,522 - myproject -INFO - im in dropdown
+2022-10-14 14:57:24,342 - myproject -INFO - im in dropdown
+2022-10-14 14:57:24,723 - myproject -INFO - im in dropdown
+2022-10-14 14:57:25,379 - myproject -INFO - im in dropdown
+2022-10-14 14:58:39,937 - myproject -INFO - Reading Excel Sheet
+2022-10-14 14:58:42,531 - myproject -INFO - in func library
+2022-10-14 14:58:53,286 - myproject -INFO - Opened Browser
+2022-10-14 14:58:58,458 - myproject -INFO - im in button
+2022-10-14 14:59:00,029 - myproject -INFO - im in dropdown
+2022-10-14 14:59:01,852 - myproject -INFO - im in dropdown
+2022-10-14 14:59:02,169 - myproject -INFO - im in dropdown
+2022-10-14 14:59:02,764 - myproject -INFO - im in dropdown
+2022-10-14 15:00:05,268 - myproject -INFO - Reading Excel Sheet
+2022-10-14 15:00:07,761 - myproject -INFO - in func library
+2022-10-14 15:00:19,056 - myproject -INFO - Opened Browser
+2022-10-14 15:00:24,265 - myproject -INFO - im in button
+2022-10-14 15:00:25,527 - myproject -INFO - im in dropdown
+2022-10-14 15:00:27,363 - myproject -INFO - im in dropdown
+2022-10-14 15:00:27,733 - myproject -INFO - im in dropdown
+2022-10-14 15:00:28,388 - myproject -INFO - im in dropdown
+2022-10-14 15:02:56,805 - myproject -INFO - Reading Excel Sheet
+2022-10-14 15:02:59,388 - myproject -INFO - in func library
+2022-10-14 15:03:11,453 - myproject -INFO - Opened Browser
+2022-10-14 15:03:16,646 - myproject -INFO - im in button
+2022-10-14 15:03:18,283 - myproject -INFO - im in dropdown
+2022-10-14 15:03:20,112 - myproject -INFO - im in dropdown
+2022-10-14 15:03:20,455 - myproject -INFO - im in dropdown
+2022-10-14 15:03:21,111 - myproject -INFO - im in dropdown
+2022-10-14 15:11:01,144 - myproject -INFO - Reading Excel Sheet
+2022-10-14 15:11:03,901 - myproject -INFO - in func library
+2022-10-14 15:11:13,588 - myproject -INFO - Opened Browser
+2022-10-14 15:11:13,792 - myproject -INFO - im in button
+2022-10-14 15:11:15,656 - myproject -INFO - im in dropdown
+2022-10-14 15:11:41,227 - myproject -INFO - im in dropdown
+2022-10-14 15:11:47,406 - myproject -INFO - im in dropdown
+2022-10-14 15:12:01,103 - myproject -INFO - im in dropdown
+2022-10-14 15:13:44,709 - myproject -INFO - Reading Excel Sheet
+2022-10-14 15:13:47,006 - myproject -INFO - in func library
+2022-10-14 15:13:57,450 - myproject -INFO - Opened Browser
+2022-10-14 15:13:57,635 - myproject -INFO - im in button
+2022-10-14 15:13:59,037 - myproject -INFO - im in dropdown
+2022-10-14 15:14:00,761 - myproject -INFO - im in dropdown
+2022-10-14 15:14:01,028 - myproject -INFO - im in dropdown
+2022-10-14 15:14:01,613 - myproject -INFO - im in dropdown
+2022-10-14 15:15:36,446 - myproject -INFO - Reading Excel Sheet
+2022-10-14 15:15:39,188 - myproject -INFO - in func library
+2022-10-14 15:15:49,723 - myproject -INFO - Opened Browser
+2022-10-14 15:15:54,889 - myproject -INFO - im in button
+2022-10-14 15:15:56,070 - myproject -INFO - im in dropdown
+2022-10-14 15:15:57,754 - myproject -INFO - im in dropdown
+2022-10-14 15:15:58,080 - myproject -INFO - im in dropdown
+2022-10-14 15:15:58,668 - myproject -INFO - im in dropdown
+2022-10-14 15:16:58,666 - myproject -INFO - Reading Excel Sheet
+2022-10-14 15:17:01,589 - myproject -INFO - in func library
+2022-10-14 15:17:11,903 - myproject -INFO - Opened Browser
+2022-10-14 15:17:17,071 - myproject -INFO - im in button
+2022-10-14 15:17:18,225 - myproject -INFO - im in dropdown
+2022-10-14 15:17:18,409 - myproject -INFO - im in dropdown
+2022-10-14 15:17:20,241 - myproject -INFO - im in dropdown
+2022-10-14 15:17:20,907 - myproject -INFO - im in dropdown
+2022-10-14 15:20:34,383 - myproject -INFO - Reading Excel Sheet
+2022-10-14 15:20:37,180 - myproject -INFO - in func library
+2022-10-14 15:20:48,531 - myproject -INFO - Opened Browser
+2022-10-14 15:20:53,726 - myproject -INFO - im in button
+2022-10-14 15:20:55,171 - myproject -INFO - im in dropdown
+2022-10-14 15:20:56,942 - myproject -INFO - im in dropdown
+2022-10-14 15:20:57,320 - myproject -INFO - im in dropdown
+2022-10-14 15:20:58,011 - myproject -INFO - im in dropdown
+2022-10-14 15:21:22,291 - myproject -INFO - Reading Excel Sheet
+2022-10-14 15:21:24,827 - myproject -INFO - in func library
+2022-10-14 15:21:36,317 - myproject -INFO - Opened Browser
+2022-10-14 15:21:41,487 - myproject -INFO - im in button
+2022-10-14 15:21:42,769 - myproject -INFO - im in dropdown
+2022-10-14 15:21:44,537 - myproject -INFO - im in dropdown
+2022-10-14 15:21:44,905 - myproject -INFO - im in dropdown
+2022-10-14 15:21:45,565 - myproject -INFO - im in dropdown
+2022-10-14 15:22:43,184 - myproject -INFO - Reading Excel Sheet
+2022-10-14 15:22:45,900 - myproject -INFO - in func library
+2022-10-14 15:22:55,529 - myproject -INFO - Opened Browser
+2022-10-14 15:22:55,718 - myproject -INFO - im in button
+2022-10-14 15:22:57,552 - myproject -INFO - im in dropdown
+2022-10-14 15:22:57,715 - myproject -INFO - im in dropdown
+2022-10-14 15:22:59,566 - myproject -INFO - im in dropdown
+2022-10-14 15:23:00,194 - myproject -INFO - im in dropdown
+2022-10-14 15:23:46,859 - myproject -INFO - im in dropdown
+2022-10-14 15:41:33,464 - myproject -INFO - Reading Excel Sheet
+2022-10-14 15:41:35,643 - myproject -INFO - in func library
+2022-10-14 15:41:45,420 - myproject -INFO - Opened Browser
+2022-10-14 15:41:45,582 - myproject -INFO - im in button
+2022-10-14 15:41:47,501 - myproject -INFO - im in dropdown
+2022-10-14 15:41:47,703 - myproject -INFO - im in dropdown
+2022-10-14 15:41:47,962 - myproject -INFO - im in dropdown
+2022-10-14 15:41:50,041 - myproject -INFO - im in dropdown
+2022-10-14 15:43:53,675 - myproject -INFO - Reading Excel Sheet
+2022-10-14 15:43:55,990 - myproject -INFO - in func library
+2022-10-14 15:44:06,270 - myproject -INFO - Opened Browser
+2022-10-14 15:44:06,441 - myproject -INFO - im in button
+2022-10-14 15:44:08,339 - myproject -INFO - im in dropdown
+2022-10-14 15:44:10,076 - myproject -INFO - im in dropdown
+2022-10-14 15:44:10,522 - myproject -INFO - im in dropdown
+2022-10-14 15:44:11,141 - myproject -INFO - im in dropdown
+2022-10-14 15:46:35,274 - myproject -INFO - Reading Excel Sheet
+2022-10-14 15:46:37,547 - myproject -INFO - in func library
+2022-10-14 15:46:49,815 - myproject -INFO - Opened Browser
+2022-10-14 15:46:50,003 - myproject -INFO - im in button
+2022-10-14 15:46:54,719 - myproject -INFO - im in dropdown
+2022-10-14 15:46:56,761 - myproject -INFO - im in dropdown
+2022-10-14 15:46:57,066 - myproject -INFO - im in dropdown
+2022-10-14 15:46:57,723 - myproject -INFO - im in dropdown
+2022-10-14 16:13:59,678 - myproject -INFO - Reading Excel Sheet
+2022-10-14 16:14:02,132 - myproject -INFO - in func library
+2022-10-14 16:14:12,305 - myproject -INFO - Opened Browser
+2022-10-14 16:14:12,491 - myproject -INFO - im in button
+2022-10-14 16:14:13,713 - myproject -INFO - im in dropdown
+2022-10-14 16:14:15,423 - myproject -INFO - im in dropdown
+2022-10-14 16:14:15,675 - myproject -INFO - im in dropdown
+2022-10-14 16:14:16,318 - myproject -INFO - im in dropdown
+2022-10-14 16:17:46,530 - myproject -INFO - Reading Excel Sheet
+2022-10-14 16:17:48,747 - myproject -INFO - in func library
+2022-10-14 16:17:59,941 - myproject -INFO - Opened Browser
+2022-10-14 16:18:00,136 - myproject -INFO - im in button
+2022-10-14 16:18:01,496 - myproject -INFO - im in dropdown
+2022-10-14 16:18:03,154 - myproject -INFO - im in dropdown
+2022-10-14 16:18:03,470 - myproject -INFO - im in dropdown
+2022-10-14 16:18:03,972 - myproject -INFO - im in dropdown
+2022-10-14 16:19:20,145 - myproject -INFO - Reading Excel Sheet
+2022-10-14 16:19:22,380 - myproject -INFO - in func library
+2022-10-14 16:19:32,525 - myproject -INFO - Opened Browser
+2022-10-14 16:19:32,755 - myproject -INFO - im in button
+2022-10-14 16:19:34,435 - myproject -INFO - im in dropdown
+2022-10-14 16:19:36,106 - myproject -INFO - im in dropdown
+2022-10-14 16:19:36,456 - myproject -INFO - im in dropdown
+2022-10-14 16:19:37,028 - myproject -INFO - im in dropdown
+2022-10-14 16:43:50,941 - myproject -INFO - Reading Excel Sheet
+2022-10-14 16:43:52,818 - myproject -INFO - in func library
+2022-10-14 16:44:07,398 - myproject -INFO - Opened Browser
+2022-10-14 16:44:07,620 - myproject -INFO - im in button
+2022-10-14 16:44:09,108 - myproject -INFO - im in dropdown
+2022-10-14 16:44:11,063 - myproject -INFO - im in dropdown
+2022-10-14 16:44:11,574 - myproject -INFO - im in dropdown
+2022-10-14 16:44:12,106 - myproject -INFO - im in dropdown
+2022-10-14 16:46:39,360 - myproject -INFO - Reading Excel Sheet
+2022-10-14 16:46:41,501 - myproject -INFO - in func library
+2022-10-14 16:46:51,611 - myproject -INFO - Opened Browser
+2022-10-14 16:46:51,807 - myproject -INFO - im in button
+2022-10-14 16:46:52,952 - myproject -INFO - im in dropdown
+2022-10-14 16:46:54,818 - myproject -INFO - im in dropdown
+2022-10-14 16:46:55,238 - myproject -INFO - im in dropdown
+2022-10-14 16:46:55,811 - myproject -INFO - im in dropdown
+2022-10-14 16:46:57,199 - myproject -INFO - im in dropdown
+2022-10-14 16:46:57,953 - myproject -INFO - im in texbox
+2022-10-14 16:48:33,684 - myproject -INFO - Reading Excel Sheet
+2022-10-14 16:48:36,384 - myproject -INFO - in func library
+2022-10-14 16:48:46,538 - myproject -INFO - Opened Browser
+2022-10-14 16:48:46,793 - myproject -INFO - im in button
+2022-10-14 16:48:48,227 - myproject -INFO - im in dropdown
+2022-10-14 16:48:49,907 - myproject -INFO - im in dropdown
+2022-10-14 16:48:50,158 - myproject -INFO - im in dropdown
+2022-10-14 16:48:50,658 - myproject -INFO - im in dropdown
+2022-10-14 16:48:51,879 - myproject -INFO - im in dropdown
+2022-10-14 16:48:52,606 - myproject -INFO - im in texbox
+2022-10-14 16:49:31,246 - myproject -INFO - Reading Excel Sheet
+2022-10-14 16:49:34,166 - myproject -INFO - in func library
+2022-10-14 16:49:45,095 - myproject -INFO - Opened Browser
+2022-10-14 16:49:45,274 - myproject -INFO - im in button
+2022-10-14 16:49:47,111 - myproject -INFO - im in dropdown
+2022-10-14 16:49:47,308 - myproject -INFO - im in dropdown
+2022-10-14 16:49:49,120 - myproject -INFO - im in dropdown
+2022-10-14 16:49:49,649 - myproject -INFO - im in dropdown
+2022-10-14 16:50:38,942 - myproject -INFO - Reading Excel Sheet
+2022-10-14 16:50:43,788 - myproject -INFO - in func library
+2022-10-14 16:50:55,190 - myproject -INFO - Opened Browser
+2022-10-14 16:50:55,375 - myproject -INFO - im in button
+2022-10-14 16:50:57,677 - myproject -INFO - im in dropdown
+2022-10-14 16:50:59,896 - myproject -INFO - im in dropdown
+2022-10-14 16:51:00,674 - myproject -INFO - im in dropdown
+2022-10-14 16:51:01,301 - myproject -INFO - im in dropdown
+2022-10-14 16:52:32,034 - myproject -INFO - Reading Excel Sheet
+2022-10-14 16:52:33,904 - myproject -INFO - in func library
+2022-10-14 16:52:43,980 - myproject -INFO - Opened Browser
+2022-10-14 16:52:44,173 - myproject -INFO - im in button
+2022-10-14 16:52:46,055 - myproject -INFO - im in dropdown
+2022-10-14 16:52:46,271 - myproject -INFO - im in dropdown
+2022-10-14 16:52:48,020 - myproject -INFO - im in dropdown
+2022-10-14 16:52:48,603 - myproject -INFO - im in dropdown
+2022-10-14 16:52:49,871 - myproject -INFO - im in dropdown
+2022-10-14 16:52:50,686 - myproject -INFO - im in texbox
+2022-10-14 16:53:47,987 - myproject -INFO - Reading Excel Sheet
+2022-10-14 16:53:50,009 - myproject -INFO - in func library
+2022-10-14 16:54:00,128 - myproject -INFO - Opened Browser
+2022-10-14 16:54:00,348 - myproject -INFO - im in button
+2022-10-14 16:54:01,538 - myproject -INFO - im in dropdown
+2022-10-14 16:54:03,213 - myproject -INFO - im in dropdown
+2022-10-14 16:54:03,534 - myproject -INFO - im in dropdown
+2022-10-14 16:54:04,139 - myproject -INFO - im in dropdown
+2022-10-14 16:58:41,458 - myproject -INFO - Reading Excel Sheet
+2022-10-14 16:58:43,943 - myproject -INFO - in func library
+2022-10-14 16:58:54,362 - myproject -INFO - Opened Browser
+2022-10-14 16:58:54,582 - myproject -INFO - im in button
+2022-10-14 16:58:56,305 - myproject -INFO - im in dropdown
+2022-10-14 16:58:58,000 - myproject -INFO - im in dropdown
+2022-10-14 16:58:58,245 - myproject -INFO - im in dropdown
+2022-10-14 16:58:58,793 - myproject -INFO - im in dropdown
+2022-10-14 16:59:47,602 - myproject -INFO - Reading Excel Sheet
+2022-10-14 16:59:50,187 - myproject -INFO - in func library
+2022-10-14 17:00:00,377 - myproject -INFO - Opened Browser
+2022-10-14 17:00:00,580 - myproject -INFO - im in button
+2022-10-14 17:00:02,613 - myproject -INFO - im in dropdown
+2022-10-14 17:00:02,826 - myproject -INFO - im in dropdown
+2022-10-14 17:00:04,641 - myproject -INFO - im in dropdown
+2022-10-14 17:00:05,378 - myproject -INFO - im in dropdown
+2022-10-14 17:00:09,712 - myproject -INFO - im in dropdown
+2022-10-14 17:00:10,572 - myproject -INFO - im in texbox
+2022-10-14 17:04:20,908 - myproject -INFO - Reading Excel Sheet
+2022-10-14 17:04:23,153 - myproject -INFO - in func library
+2022-10-14 17:04:33,556 - myproject -INFO - Opened Browser
+2022-10-14 17:04:33,745 - myproject -INFO - im in button
+2022-10-14 17:04:35,437 - myproject -INFO - im in dropdown
+2022-10-14 17:04:37,157 - myproject -INFO - im in dropdown
+2022-10-14 17:04:37,412 - myproject -INFO - im in dropdown
+2022-10-14 17:04:37,947 - myproject -INFO - im in dropdown
+2022-10-14 17:04:42,119 - myproject -INFO - im in dropdown
+2022-10-14 17:04:42,917 - myproject -INFO - im in texbox
+2022-10-14 17:09:52,690 - myproject -INFO - Reading Excel Sheet
+2022-10-14 17:09:57,060 - myproject -INFO - in func library
+2022-10-14 17:10:09,798 - myproject -INFO - Opened Browser
+2022-10-14 17:10:09,971 - myproject -INFO - im in button
+2022-10-14 17:10:11,330 - myproject -INFO - im in dropdown
+2022-10-14 17:10:12,954 - myproject -INFO - im in dropdown
+2022-10-14 17:10:13,320 - myproject -INFO - im in dropdown
+2022-10-14 17:10:13,826 - myproject -INFO - im in dropdown
+2022-10-14 17:12:52,280 - myproject -INFO - Reading Excel Sheet
+2022-10-14 17:12:54,602 - myproject -INFO - in func library
+2022-10-14 17:13:04,876 - myproject -INFO - Opened Browser
+2022-10-14 17:13:05,059 - myproject -INFO - im in button
+2022-10-14 17:13:06,342 - myproject -INFO - im in dropdown
+2022-10-14 17:13:08,007 - myproject -INFO - im in dropdown
+2022-10-14 17:13:08,379 - myproject -INFO - im in dropdown
+2022-10-14 17:13:08,906 - myproject -INFO - im in dropdown
+2022-10-14 17:13:09,146 - myproject -INFO - im in dropdown
+2022-10-14 17:14:18,123 - myproject -INFO - Reading Excel Sheet
+2022-10-14 17:14:20,563 - myproject -INFO - in func library
+2022-10-14 17:14:31,207 - myproject -INFO - Opened Browser
+2022-10-14 17:14:36,402 - myproject -INFO - im in button
+2022-10-14 17:14:37,816 - myproject -INFO - im in dropdown
+2022-10-14 17:14:39,586 - myproject -INFO - im in dropdown
+2022-10-14 17:14:39,915 - myproject -INFO - im in dropdown
+2022-10-14 17:14:40,559 - myproject -INFO - im in dropdown
+2022-10-14 17:14:40,897 - myproject -INFO - im in dropdown
+2022-10-14 17:15:41,316 - myproject -INFO - Reading Excel Sheet
+2022-10-14 17:15:43,469 - myproject -INFO - in func library
+2022-10-14 17:15:53,098 - myproject -INFO - Opened Browser
+2022-10-14 17:16:25,942 - myproject -INFO - im in button
+2022-10-14 17:16:36,389 - myproject -INFO - im in dropdown
+2022-10-14 17:16:42,669 - myproject -INFO - im in dropdown
+2022-10-14 17:17:04,883 - myproject -INFO - im in dropdown
+2022-10-14 17:17:12,016 - myproject -INFO - im in dropdown
+2022-10-14 17:17:25,551 - myproject -INFO - im in dropdown
+2022-10-14 17:34:19,536 - myproject -INFO - Reading Excel Sheet
+2022-10-14 17:34:21,403 - myproject -INFO - in func library
+2022-10-14 17:34:31,071 - myproject -INFO - Opened Browser
+2022-10-14 17:34:31,326 - myproject -INFO - im in button
+2022-10-14 17:34:32,470 - myproject -INFO - im in dropdown
+2022-10-14 17:34:32,655 - myproject -INFO - im in dropdown
+2022-10-14 17:34:34,400 - myproject -INFO - im in dropdown
+2022-10-14 17:34:34,980 - myproject -INFO - im in dropdown
+2022-10-14 17:34:39,381 - myproject -INFO - im in dropdown
+2022-10-14 17:34:40,224 - myproject -INFO - im in texbox
+2022-10-14 17:34:43,654 - myproject -INFO - im in button
+2022-10-14 17:34:43,759 - myproject -INFO - im in button
+2022-10-14 17:34:43,848 - myproject -INFO - im in button
+2022-10-14 17:34:43,946 - myproject -INFO - im in button
+2022-10-14 17:34:44,027 - myproject -INFO - im in button
+2022-10-14 17:34:44,157 - myproject -INFO - im in button
+2022-10-14 17:34:44,233 - myproject -INFO - im in button
+2022-10-14 17:34:44,378 - myproject -INFO - im in texbox
+2022-10-14 17:34:44,475 - myproject -INFO - im in texbox
+2022-10-14 17:34:44,643 - myproject -INFO - im in button
+2022-10-14 17:34:44,787 - myproject -INFO - im in button
+2022-10-14 17:36:22,377 - myproject -INFO - Reading Excel Sheet
+2022-10-14 17:36:24,546 - myproject -INFO - in func library
+2022-10-14 17:36:34,162 - myproject -INFO - Opened Browser
+2022-10-14 17:36:34,364 - myproject -INFO - im in button
+2022-10-14 17:36:36,212 - myproject -INFO - im in dropdown
+2022-10-14 17:36:36,389 - myproject -INFO - im in dropdown
+2022-10-14 17:36:38,182 - myproject -INFO - im in dropdown
+2022-10-14 17:36:38,735 - myproject -INFO - im in dropdown
+2022-10-14 17:36:43,141 - myproject -INFO - im in dropdown
+2022-10-14 17:36:44,016 - myproject -INFO - im in texbox
+2022-10-14 17:36:47,438 - myproject -INFO - im in button
+2022-10-14 17:36:47,574 - myproject -INFO - im in button
+2022-10-14 17:36:47,659 - myproject -INFO - im in button
+2022-10-14 17:36:47,762 - myproject -INFO - im in button
+2022-10-14 17:36:47,877 - myproject -INFO - im in button
+2022-10-14 17:36:48,047 - myproject -INFO - im in button
+2022-10-14 17:36:48,139 - myproject -INFO - im in button
+2022-10-14 17:36:48,266 - myproject -INFO - im in texbox
+2022-10-14 17:36:48,352 - myproject -INFO - im in texbox
+2022-10-14 17:36:48,516 - myproject -INFO - im in button
+2022-10-14 17:36:48,673 - myproject -INFO - im in button
+2022-10-14 17:37:32,730 - myproject -INFO - Reading Excel Sheet
+2022-10-14 17:37:35,100 - myproject -INFO - in func library
+2022-10-14 17:37:44,728 - myproject -INFO - Opened Browser
+2022-10-14 17:37:44,913 - myproject -INFO - im in button
+2022-10-14 17:37:46,814 - myproject -INFO - im in dropdown
+2022-10-14 17:37:48,742 - myproject -INFO - im in dropdown
+2022-10-14 17:37:49,118 - myproject -INFO - im in dropdown
+2022-10-14 17:37:49,717 - myproject -INFO - im in dropdown
+2022-10-14 17:37:54,169 - myproject -INFO - im in dropdown
+2022-10-14 17:37:55,096 - myproject -INFO - im in texbox
+2022-10-14 17:37:58,613 - myproject -INFO - im in button
+2022-10-14 17:37:58,748 - myproject -INFO - im in button
+2022-10-14 17:37:58,877 - myproject -INFO - im in button
+2022-10-14 17:37:59,026 - myproject -INFO - im in button
+2022-10-14 17:37:59,134 - myproject -INFO - im in button
+2022-10-14 17:37:59,297 - myproject -INFO - im in button
+2022-10-14 17:37:59,388 - myproject -INFO - im in button
+2022-10-14 17:37:59,520 - myproject -INFO - im in texbox
+2022-10-14 17:37:59,606 - myproject -INFO - im in texbox
+2022-10-14 17:37:59,769 - myproject -INFO - im in button
+2022-10-14 17:37:59,910 - myproject -INFO - im in button
+2022-10-14 17:37:59,987 - myproject -INFO - in func library
+2022-10-14 17:37:59,988 - myproject -INFO - Opened Browser
+2022-10-14 17:38:00,162 - myproject -INFO - im in button
+2022-10-14 17:38:01,360 - myproject -INFO - im in dropdown
+2022-10-14 17:38:02,712 - myproject -INFO - im in dropdown
+2022-10-14 17:38:03,296 - myproject -INFO - im in dropdown
+2022-10-14 17:38:03,710 - myproject -INFO - im in button
+2022-10-14 17:44:42,538 - myproject -INFO - Reading Excel Sheet
+2022-10-14 17:44:44,699 - myproject -INFO - in func library
+2022-10-14 17:44:55,266 - myproject -INFO - Opened Browser
+2022-10-14 17:44:55,448 - myproject -INFO - im in button
+2022-10-14 17:44:57,000 - myproject -INFO - im in dropdown
+2022-10-14 17:44:57,208 - myproject -INFO - im in dropdown
+2022-10-14 17:44:58,938 - myproject -INFO - im in dropdown
+2022-10-14 17:44:59,687 - myproject -INFO - im in dropdown
+2022-10-14 17:45:03,973 - myproject -INFO - im in dropdown
+2022-10-14 17:45:04,776 - myproject -INFO - im in texbox
+2022-10-14 17:45:08,095 - myproject -INFO - im in button
+2022-10-14 17:45:08,243 - myproject -INFO - im in button
+2022-10-14 17:45:08,372 - myproject -INFO - im in button
+2022-10-14 17:45:08,537 - myproject -INFO - im in button
+2022-10-14 17:45:08,640 - myproject -INFO - im in button
+2022-10-14 17:45:08,818 - myproject -INFO - im in button
+2022-10-14 17:45:08,891 - myproject -INFO - im in button
+2022-10-14 17:45:09,020 - myproject -INFO - im in texbox
+2022-10-14 17:45:09,105 - myproject -INFO - im in texbox
+2022-10-14 17:45:09,233 - myproject -INFO - im in button
+2022-10-14 17:45:09,346 - myproject -INFO - im in button
+2022-10-14 17:45:09,421 - myproject -INFO - in func library
+2022-10-14 17:45:09,421 - myproject -INFO - Opened Browser
+2022-10-14 17:45:09,569 - myproject -INFO - im in button
+2022-10-14 17:45:10,865 - myproject -INFO - im in dropdown
+2022-10-14 17:45:12,046 - myproject -INFO - im in dropdown
+2022-10-14 17:45:12,576 - myproject -INFO - im in dropdown
+2022-10-14 17:45:12,887 - myproject -INFO - im in button
+2022-10-14 17:46:47,362 - myproject -INFO - Reading Excel Sheet
+2022-10-14 17:46:49,233 - myproject -INFO - in func library
+2022-10-14 17:46:58,528 - myproject -INFO - Opened Browser
+2022-10-14 17:46:58,729 - myproject -INFO - im in button
+2022-10-14 17:47:00,079 - myproject -INFO - im in dropdown
+2022-10-14 17:47:00,267 - myproject -INFO - im in dropdown
+2022-10-14 17:47:01,960 - myproject -INFO - im in dropdown
+2022-10-14 17:47:02,556 - myproject -INFO - im in dropdown
+2022-10-14 17:47:04,987 - myproject -INFO - im in dropdown
+2022-10-14 17:47:05,911 - myproject -INFO - im in texbox
+2022-10-14 17:47:07,332 - myproject -INFO - im in button
+2022-10-14 17:47:07,479 - myproject -INFO - im in button
+2022-10-14 17:47:07,582 - myproject -INFO - im in button
+2022-10-14 17:47:07,712 - myproject -INFO - im in button
+2022-10-14 17:47:07,824 - myproject -INFO - im in button
+2022-10-14 17:47:08,060 - myproject -INFO - im in button
+2022-10-14 17:47:08,140 - myproject -INFO - im in button
+2022-10-14 17:47:08,281 - myproject -INFO - im in texbox
+2022-10-14 17:47:08,372 - myproject -INFO - im in texbox
+2022-10-14 17:47:08,514 - myproject -INFO - im in button
+2022-10-14 17:47:08,651 - myproject -INFO - im in button
+2022-10-14 17:47:08,732 - myproject -INFO - in func library
+2022-10-14 17:47:08,740 - myproject -INFO - Opened Browser
+2022-10-14 17:47:08,899 - myproject -INFO - im in button
+2022-10-14 17:47:10,063 - myproject -INFO - im in dropdown
+2022-10-14 17:47:11,380 - myproject -INFO - im in dropdown
+2022-10-14 17:47:12,009 - myproject -INFO - im in dropdown
+2022-10-14 17:47:12,236 - myproject -INFO - im in button
+2022-10-14 17:47:14,703 - myproject -INFO - im in texbox
+2022-10-14 17:48:04,736 - myproject -INFO - Reading Excel Sheet
+2022-10-14 17:48:07,217 - myproject -INFO - in func library
+2022-10-14 17:48:16,826 - myproject -INFO - Opened Browser
+2022-10-14 17:48:17,087 - myproject -INFO - im in button
+2022-10-14 17:48:18,902 - myproject -INFO - im in dropdown
+2022-10-14 17:48:20,571 - myproject -INFO - im in dropdown
+2022-10-14 17:48:20,815 - myproject -INFO - im in dropdown
+2022-10-14 17:48:21,333 - myproject -INFO - im in dropdown
+2022-10-14 17:48:23,515 - myproject -INFO - im in dropdown
+2022-10-14 17:48:24,253 - myproject -INFO - im in texbox
+2022-10-14 17:48:25,757 - myproject -INFO - im in button
+2022-10-14 17:48:25,869 - myproject -INFO - im in button
+2022-10-14 17:48:25,975 - myproject -INFO - im in button
+2022-10-14 17:48:26,128 - myproject -INFO - im in button
+2022-10-14 17:48:26,201 - myproject -INFO - im in button
+2022-10-14 17:48:26,342 - myproject -INFO - im in button
+2022-10-14 17:48:26,422 - myproject -INFO - im in button
+2022-10-14 17:48:26,567 - myproject -INFO - im in texbox
+2022-10-14 17:48:26,650 - myproject -INFO - im in texbox
+2022-10-14 17:48:26,800 - myproject -INFO - im in button
+2022-10-14 17:48:26,962 - myproject -INFO - im in button
+2022-10-14 17:48:27,043 - myproject -INFO - in func library
+2022-10-14 17:48:27,043 - myproject -INFO - Opened Browser
+2022-10-14 17:48:27,191 - myproject -INFO - im in button
+2022-10-14 17:48:28,304 - myproject -INFO - im in dropdown
+2022-10-14 17:48:29,547 - myproject -INFO - im in dropdown
+2022-10-14 17:48:30,204 - myproject -INFO - im in dropdown
+2022-10-14 17:48:30,666 - myproject -INFO - im in button
+2022-10-14 17:48:33,120 - myproject -INFO - im in texbox
+2022-10-14 17:48:34,447 - myproject -INFO - im in texbox
+2022-10-14 17:48:34,560 - myproject -INFO - im in texbox
+2022-10-14 17:48:34,665 - myproject -INFO - im in texbox
+2022-10-14 17:48:34,861 - myproject -INFO - im in button
+2022-10-14 17:48:35,002 - myproject -INFO - im in button
+2022-10-14 17:48:36,293 - myproject -INFO - in func library
+2022-10-14 17:48:36,293 - myproject -INFO - Opened Browser
+2022-10-14 17:48:36,450 - myproject -INFO - im in button
+2022-10-14 17:48:37,128 - myproject -INFO - im in button
+2022-10-14 17:48:37,306 - myproject -INFO - im in button
+2022-10-17 10:47:59,876 - myproject -INFO - Reading Excel Sheet
+2022-10-17 10:48:01,805 - myproject -INFO - in func library
+2022-10-17 10:48:11,786 - myproject -INFO - Opened Browser
+2022-10-17 10:48:11,950 - myproject -INFO - im in button
+2022-10-17 10:48:13,102 - myproject -INFO - im in dropdown
+2022-10-17 10:48:13,272 - myproject -INFO - im in dropdown
+2022-10-17 10:48:15,039 - myproject -INFO - im in dropdown
+2022-10-17 10:48:15,485 - myproject -INFO - im in dropdown
+2022-10-17 10:48:17,679 - myproject -INFO - im in dropdown
+2022-10-17 10:48:18,397 - myproject -INFO - im in texbox
+2022-10-17 10:48:19,647 - myproject -INFO - im in button
+2022-10-17 10:48:19,734 - myproject -INFO - im in button
+2022-10-17 10:48:19,789 - myproject -INFO - im in button
+2022-10-17 10:48:19,862 - myproject -INFO - im in button
+2022-10-17 10:48:19,919 - myproject -INFO - im in button
+2022-10-17 10:48:19,993 - myproject -INFO - im in button
+2022-10-17 10:48:20,045 - myproject -INFO - im in button
+2022-10-17 10:48:20,116 - myproject -INFO - im in texbox
+2022-10-17 10:48:20,166 - myproject -INFO - im in texbox
+2022-10-17 10:48:20,233 - myproject -INFO - im in button
+2022-10-17 10:48:20,317 - myproject -INFO - im in button
+2022-10-17 10:48:20,374 - myproject -INFO - in func library
+2022-10-17 10:48:20,375 - myproject -INFO - Opened Browser
+2022-10-17 10:48:20,511 - myproject -INFO - im in button
+2022-10-17 10:48:21,796 - myproject -INFO - im in dropdown
+2022-10-17 10:48:23,068 - myproject -INFO - im in dropdown
+2022-10-17 10:48:23,629 - myproject -INFO - im in dropdown
+2022-10-17 10:48:23,845 - myproject -INFO - im in button
+2022-10-17 10:48:26,179 - myproject -INFO - im in texbox
+2022-10-17 10:48:27,409 - myproject -INFO - im in texbox
+2022-10-17 10:48:27,481 - myproject -INFO - im in texbox
+2022-10-17 10:48:27,535 - myproject -INFO - im in texbox
+2022-10-17 10:48:27,670 - myproject -INFO - im in button
+2022-10-17 10:48:27,747 - myproject -INFO - im in button
+2022-10-17 10:48:29,056 - myproject -INFO - in func library
+2022-10-17 10:48:29,056 - myproject -INFO - Opened Browser
+2022-10-17 10:48:29,208 - myproject -INFO - im in button
+2022-10-17 10:48:29,822 - myproject -INFO - im in button
+2022-10-17 10:48:29,935 - myproject -INFO - im in button
+2022-10-17 10:55:13,531 - myproject -INFO - Reading Excel Sheet
+2022-10-17 10:55:15,913 - myproject -INFO - in func library
+2022-10-17 10:55:27,377 - myproject -INFO - Opened Browser
+2022-10-17 10:55:27,597 - myproject -INFO - im in button
+2022-10-17 10:55:29,354 - myproject -INFO - im in dropdown
+2022-10-17 10:55:31,025 - myproject -INFO - im in dropdown
+2022-10-17 10:55:31,335 - myproject -INFO - im in dropdown
+2022-10-17 10:55:31,964 - myproject -INFO - im in dropdown
+2022-10-17 10:55:34,356 - myproject -INFO - im in dropdown
+2022-10-17 10:55:35,175 - myproject -INFO - im in texbox
+2022-10-17 10:55:36,617 - myproject -INFO - im in button
+2022-10-17 10:55:36,775 - myproject -INFO - im in button
+2022-10-17 10:55:36,878 - myproject -INFO - im in button
+2022-10-17 10:55:37,053 - myproject -INFO - im in button
+2022-10-17 10:55:37,179 - myproject -INFO - im in button
+2022-10-17 10:55:37,343 - myproject -INFO - im in button
+2022-10-17 10:55:37,438 - myproject -INFO - im in button
+2022-10-17 10:55:37,585 - myproject -INFO - im in texbox
+2022-10-17 10:55:37,681 - myproject -INFO - im in texbox
+2022-10-17 10:55:37,826 - myproject -INFO - im in button
+2022-10-17 10:55:38,017 - myproject -INFO - im in button
+2022-10-17 10:55:38,121 - myproject -INFO - in func library
+2022-10-17 10:55:38,122 - myproject -INFO - Opened Browser
+2022-10-17 10:55:38,272 - myproject -INFO - im in button
+2022-10-17 10:55:39,905 - myproject -INFO - im in dropdown
+2022-10-17 10:55:41,193 - myproject -INFO - im in dropdown
+2022-10-17 10:55:41,791 - myproject -INFO - im in dropdown
+2022-10-17 10:55:42,166 - myproject -INFO - im in button
+2022-10-17 10:55:44,703 - myproject -INFO - im in texbox
+2022-10-17 10:55:46,094 - myproject -INFO - im in texbox
+2022-10-17 10:55:46,231 - myproject -INFO - im in texbox
+2022-10-17 10:55:46,323 - myproject -INFO - im in texbox
+2022-10-17 10:55:46,502 - myproject -INFO - im in button
+2022-10-17 10:55:46,632 - myproject -INFO - im in button
+2022-10-17 10:55:48,075 - myproject -INFO - in func library
+2022-10-17 10:55:48,077 - myproject -INFO - Opened Browser
+2022-10-17 10:55:48,248 - myproject -INFO - im in button
+2022-10-17 10:55:49,010 - myproject -INFO - im in button
+2022-10-17 10:55:49,199 - myproject -INFO - im in button
+2022-10-17 11:11:06,026 - myproject -INFO - Reading Excel Sheet
+2022-10-17 11:11:07,481 - myproject -INFO - in func library
+2022-10-17 11:11:18,220 - myproject -INFO - Opened Browser
+2022-10-17 11:11:18,422 - myproject -INFO - im in button
+2022-10-17 11:11:37,112 - myproject -INFO - Reading Excel Sheet
+2022-10-17 11:11:38,633 - myproject -INFO - in func library
+2022-10-17 11:11:48,641 - myproject -INFO - Opened Browser
+2022-10-17 11:11:48,800 - myproject -INFO - im in button
+2022-10-17 11:11:50,930 - myproject -INFO - im in dropdown
+2022-10-17 11:11:51,050 - myproject -INFO - im in dropdown
+2022-10-17 11:11:52,624 - myproject -INFO - im in dropdown
+2022-10-17 11:11:53,073 - myproject -INFO - im in dropdown
+2022-10-17 11:11:55,078 - myproject -INFO - im in dropdown
+2022-10-17 11:11:55,697 - myproject -INFO - im in texbox
+2022-10-17 11:11:56,889 - myproject -INFO - im in button
+2022-10-17 11:11:56,949 - myproject -INFO - im in button
+2022-10-17 11:11:56,999 - myproject -INFO - im in button
+2022-10-17 11:11:57,062 - myproject -INFO - im in button
+2022-10-17 11:11:57,108 - myproject -INFO - im in button
+2022-10-17 11:11:57,172 - myproject -INFO - im in button
+2022-10-17 11:11:57,211 - myproject -INFO - im in button
+2022-10-17 11:11:57,267 - myproject -INFO - im in texbox
+2022-10-17 11:11:57,298 - myproject -INFO - im in texbox
+2022-10-17 11:11:57,354 - myproject -INFO - im in button
+2022-10-17 11:11:57,412 - myproject -INFO - im in button
+2022-10-17 11:11:57,459 - myproject -INFO - in func library
+2022-10-17 11:11:57,459 - myproject -INFO - Opened Browser
+2022-10-17 11:11:57,603 - myproject -INFO - im in button
+2022-10-17 11:11:58,820 - myproject -INFO - im in dropdown
+2022-10-17 11:11:58,988 - myproject -INFO - im in dropdown
+2022-10-17 11:12:00,956 - myproject -INFO - im in dropdown
+2022-10-17 11:12:01,077 - myproject -INFO - im in button
+2022-10-17 11:12:03,343 - myproject -INFO - im in texbox
+2022-10-17 11:12:04,508 - myproject -INFO - im in texbox
+2022-10-17 11:12:04,556 - myproject -INFO - im in texbox
+2022-10-17 11:12:04,591 - myproject -INFO - im in texbox
+2022-10-17 11:12:04,654 - myproject -INFO - im in button
+2022-10-17 11:12:04,704 - myproject -INFO - im in button
+2022-10-17 11:12:05,961 - myproject -INFO - in func library
+2022-10-17 11:12:05,961 - myproject -INFO - Opened Browser
+2022-10-17 11:12:06,098 - myproject -INFO - im in button
+2022-10-17 11:12:06,668 - myproject -INFO - im in button
+2022-10-17 11:12:06,755 - myproject -INFO - im in button
+2022-10-17 11:12:07,309 - myproject -INFO - im in button
+2022-10-17 11:12:07,352 - myproject -INFO - im in dropdown
+2022-10-17 11:12:08,337 - myproject -INFO - im in button
+2022-10-17 11:12:08,382 - myproject -INFO - im in dropdown
+2022-10-17 11:12:08,471 - myproject -INFO - im in button
+2022-10-17 11:12:08,507 - myproject -INFO - in func library
+2022-10-17 11:12:08,507 - myproject -INFO - Opened Browser
+2022-10-17 11:12:08,645 - myproject -INFO - im in button
+2022-10-17 11:12:09,837 - myproject -INFO - im in button
+2022-10-17 11:12:09,903 - myproject -INFO - im in button
+2022-10-17 11:12:10,639 - myproject -INFO - im in dropdown
+2022-10-17 11:12:11,064 - myproject -INFO - im in button
+2022-10-17 11:12:11,106 - myproject -INFO - im in dropdown
+2022-10-17 11:12:11,197 - myproject -INFO - im in button
+2022-10-17 11:12:11,718 - myproject -INFO - Browser quitted
+2022-10-17 11:22:27,649 - myproject -INFO - Reading Excel Sheet
+2022-10-17 11:22:29,273 - myproject -INFO - Execution of sheet number0
+2022-10-17 11:22:29,279 - myproject -INFO - in func library
+2022-10-17 11:22:29,280 - myproject -INFO - Opened Browser
+2022-10-17 11:24:35,271 - myproject -INFO - Reading Excel Sheet
+2022-10-17 11:24:36,894 - myproject -INFO - Execution of sheet number2
+2022-10-17 11:24:36,903 - myproject -INFO - in func library
+2022-10-17 11:24:47,130 - myproject -INFO - Opened Browser
+2022-10-17 11:24:52,236 - myproject -INFO - im in button
+2022-10-17 11:24:53,522 - myproject -INFO - im in dropdown
+2022-10-17 11:24:53,651 - myproject -INFO - im in dropdown
+2022-10-17 11:24:55,220 - myproject -INFO - im in dropdown
+2022-10-17 11:24:55,658 - myproject -INFO - im in dropdown
+2022-10-17 11:24:57,669 - myproject -INFO - im in dropdown
+2022-10-17 11:24:58,302 - myproject -INFO - im in texbox
+2022-10-17 11:24:59,469 - myproject -INFO - im in button
+2022-10-17 11:24:59,533 - myproject -INFO - im in button
+2022-10-17 11:24:59,583 - myproject -INFO - im in button
+2022-10-17 11:24:59,650 - myproject -INFO - im in button
+2022-10-17 11:24:59,696 - myproject -INFO - im in button
+2022-10-17 11:24:59,766 - myproject -INFO - im in button
+2022-10-17 11:24:59,802 - myproject -INFO - im in button
+2022-10-17 11:24:59,868 - myproject -INFO - im in texbox
+2022-10-17 11:24:59,907 - myproject -INFO - im in texbox
+2022-10-17 11:24:59,963 - myproject -INFO - im in button
+2022-10-17 11:25:00,029 - myproject -INFO - im in button
+2022-10-17 11:25:00,081 - myproject -INFO - Execution of sheet number3
+2022-10-17 11:25:00,082 - myproject -INFO - in func library
+2022-10-17 11:25:00,082 - myproject -INFO - Opened Browser
+2022-10-17 11:25:00,216 - myproject -INFO - im in button
+2022-10-17 11:25:01,781 - myproject -INFO - im in dropdown
+2022-10-17 11:25:01,899 - myproject -INFO - im in dropdown
+2022-10-17 11:25:03,359 - myproject -INFO - im in dropdown
+2022-10-17 11:25:03,498 - myproject -INFO - im in button
+2022-10-17 11:25:05,785 - myproject -INFO - im in texbox
+2022-10-17 11:25:06,978 - myproject -INFO - im in texbox
+2022-10-17 11:25:07,034 - myproject -INFO - im in texbox
+2022-10-17 11:25:07,067 - myproject -INFO - im in texbox
+2022-10-17 11:25:07,137 - myproject -INFO - im in button
+2022-10-17 11:25:07,193 - myproject -INFO - im in button
+2022-10-17 11:25:08,910 - myproject -INFO - Execution of sheet number4
+2022-10-17 11:25:08,911 - myproject -INFO - in func library
+2022-10-17 11:25:08,911 - myproject -INFO - Opened Browser
+2022-10-17 11:25:14,018 - myproject -INFO - im in button
+2022-10-17 11:25:14,636 - myproject -INFO - im in button
+2022-10-17 11:25:14,731 - myproject -INFO - im in button
+2022-10-17 11:26:07,938 - myproject -INFO - Reading Excel Sheet
+2022-10-17 11:26:09,473 - myproject -INFO - Execution of sheet number  0
+2022-10-17 11:26:09,480 - myproject -INFO - in func library
+2022-10-17 11:26:09,480 - myproject -INFO - Opened Browser
+2022-10-17 11:26:28,889 - myproject -INFO - Reading Excel Sheet
+2022-10-17 11:26:30,416 - myproject -INFO - Execution of sheet number  0
+2022-10-17 11:26:30,424 - myproject -INFO - in func library
+2022-10-17 11:26:30,424 - myproject -INFO - Opened Browser
+2022-10-17 11:27:54,778 - myproject -INFO - Reading Excel Sheet
+2022-10-17 11:27:56,388 - myproject -INFO - Execution of sheet number  0
+2022-10-17 11:27:56,395 - myproject -INFO - in func library
+2022-10-17 11:27:56,396 - myproject -INFO - Opened Browser
+2022-10-17 11:29:13,417 - myproject -INFO - Reading Excel Sheet
+2022-10-17 11:29:14,831 - myproject -INFO - Execution of sheet number  0
+2022-10-17 11:29:14,839 - myproject -INFO - in func library
+2022-10-17 11:29:14,840 - myproject -INFO - Opened Browser
+2022-10-17 11:32:44,539 - myproject -INFO - Reading Excel Sheet
+2022-10-17 11:32:46,008 - myproject -INFO - Execution of sheet number 0
+2022-10-17 11:32:46,016 - myproject -INFO - in func library
+2022-10-17 11:32:46,016 - myproject -INFO - Opened Browser
+2022-10-17 11:36:13,387 - myproject -INFO - Reading Excel Sheet
+2022-10-17 11:36:14,969 - myproject -INFO - Execution of sheet number 0
+2022-10-17 11:36:14,977 - myproject -INFO - in func library
+2022-10-17 11:36:14,978 - myproject -INFO - Opened Browser
+2022-10-17 11:37:18,275 - myproject -INFO - Reading Excel Sheet
+2022-10-17 11:37:19,838 - myproject -INFO - Execution of sheet number 0
+2022-10-17 11:39:00,181 - myproject -INFO - Reading Excel Sheet
+2022-10-17 11:39:01,564 - myproject -INFO - Execution of sheet number 0
+2022-10-17 11:39:01,572 - myproject -INFO - in func library
+2022-10-17 12:43:03,457 - myproject -INFO - Reading Excel Sheet
+2022-10-17 12:43:05,478 - myproject -INFO - Execution of sheet number 0
+2022-10-17 12:43:05,488 - myproject -INFO - in func library
+2022-10-17 12:43:05,488 - myproject -INFO - Opened Browser
+2022-10-17 12:43:32,057 - myproject -INFO - Reading Excel Sheet
+2022-10-17 12:43:34,032 - myproject -INFO - Execution of sheet number 0
+2022-10-17 12:43:34,042 - myproject -INFO - in func library
+2022-10-17 12:59:01,404 - myproject -INFO - Reading Excel Sheet
+2022-10-17 12:59:03,441 - myproject -INFO - Execution of sheet number 1
+2022-10-17 12:59:03,451 - myproject -INFO - in func library
+2022-10-17 12:59:11,780 - myproject -INFO - Opened Browser
+2022-10-17 12:59:11,972 - myproject -INFO - im in button
+2022-10-17 12:59:13,152 - myproject -INFO - im in dropdown
+2022-10-17 12:59:15,024 - myproject -INFO - im in dropdown
+2022-10-17 12:59:15,196 - myproject -INFO - im in dropdown
+2022-10-17 12:59:15,663 - myproject -INFO - im in dropdown
+2022-10-17 12:59:16,784 - myproject -INFO - im in dropdown
+2022-10-17 12:59:17,484 - myproject -INFO - im in texbox
+2022-10-17 12:59:17,827 - myproject -INFO - im in button
+2022-10-17 12:59:17,932 - myproject -INFO - im in button
+2022-10-17 12:59:18,005 - myproject -INFO - im in button
+2022-10-17 12:59:18,141 - myproject -INFO - im in button
+2022-10-17 12:59:18,237 - myproject -INFO - im in button
+2022-10-17 12:59:18,382 - myproject -INFO - im in button
+2022-10-17 12:59:18,448 - myproject -INFO - im in button
+2022-10-17 12:59:18,561 - myproject -INFO - im in texbox
+2022-10-17 12:59:18,604 - myproject -INFO - im in texbox
+2022-10-17 12:59:18,715 - myproject -INFO - im in button
+2022-10-17 12:59:18,828 - myproject -INFO - im in button
+2022-10-17 12:59:18,882 - myproject -INFO - Execution of sheet number 2
+2022-10-17 12:59:18,882 - myproject -INFO - in func library
+2022-10-17 12:59:18,883 - myproject -INFO - Opened Browser
+2022-10-17 12:59:20,196 - myproject -INFO - im in button
+2022-10-17 12:59:21,670 - myproject -INFO - im in dropdown
+2022-10-17 12:59:23,017 - myproject -INFO - im in dropdown
+2022-10-17 12:59:23,682 - myproject -INFO - im in dropdown
+2022-10-17 12:59:24,019 - myproject -INFO - im in button
+2022-10-17 12:59:24,717 - myproject -INFO - im in texbox
+2022-10-17 12:59:25,164 - myproject -INFO - im in texbox
+2022-10-17 12:59:25,300 - myproject -INFO - im in texbox
+2022-10-17 12:59:25,406 - myproject -INFO - im in texbox
+2022-10-17 12:59:25,567 - myproject -INFO - im in button
+2022-10-17 12:59:25,698 - myproject -INFO - im in button
+2022-10-17 12:59:27,067 - myproject -INFO - Execution of sheet number 3
+2022-10-17 12:59:27,068 - myproject -INFO - in func library
+2022-10-17 12:59:27,068 - myproject -INFO - Opened Browser
+2022-10-17 12:59:30,792 - myproject -INFO - im in button
+2022-10-17 12:59:31,542 - myproject -INFO - im in button
+2022-10-17 12:59:31,758 - myproject -INFO - im in button
+2022-10-17 15:41:18,632 - myproject -INFO - Reading Excel Sheet
+2022-10-17 15:41:20,700 - myproject -INFO - Execution of sheet number 1
+2022-10-17 15:41:20,708 - myproject -INFO - in func library
+2022-10-17 15:41:28,508 - myproject -INFO - Opened Browser
+2022-10-17 15:41:28,692 - myproject -INFO - im in button
+2022-10-17 15:41:30,321 - myproject -INFO - im in dropdown
+2022-10-17 15:41:32,537 - myproject -INFO - im in dropdown
+2022-10-17 15:41:32,822 - myproject -INFO - im in dropdown
+2022-10-17 15:41:33,363 - myproject -INFO - im in dropdown
+2022-10-17 15:53:42,821 - myproject -INFO - Reading Excel Sheet
+2022-10-17 15:53:44,908 - myproject -INFO - Execution of sheet number 1
+2022-10-17 15:53:44,919 - myproject -INFO - in func library
+2022-10-17 15:53:52,706 - myproject -INFO - Opened Browser
+2022-10-17 15:53:52,899 - myproject -INFO - im in button
+2022-10-17 15:53:54,772 - myproject -INFO - im in dropdown
+2022-10-17 15:53:54,970 - myproject -INFO - im in dropdown
+2022-10-17 15:53:57,274 - myproject -INFO - im in dropdown
+2022-10-17 15:53:57,873 - myproject -INFO - im in dropdown
+2022-10-17 15:55:44,672 - myproject -INFO - Reading Excel Sheet
+2022-10-17 15:55:47,141 - myproject -INFO - Execution of sheet number 1
+2022-10-17 15:55:47,173 - myproject -INFO - in func library
+2022-10-17 15:55:55,008 - myproject -INFO - Opened Browser
+2022-10-17 15:55:55,202 - myproject -INFO - im in button
+2022-10-17 15:55:56,437 - myproject -INFO - im in dropdown
+2022-10-17 15:55:56,629 - myproject -INFO - im in dropdown
+2022-10-17 15:55:56,853 - myproject -INFO - im in dropdown
+2022-10-17 15:55:59,013 - myproject -INFO - im in dropdown
+2022-10-17 15:56:00,694 - myproject -INFO - im in dropdown
+2022-10-17 15:56:01,487 - myproject -INFO - im in texbox
+2022-10-17 15:56:01,983 - myproject -INFO - im in button
+2022-10-17 15:56:02,163 - myproject -INFO - im in button
+2022-10-17 15:56:02,283 - myproject -INFO - im in button
+2022-10-17 15:56:02,446 - myproject -INFO - im in button
+2022-10-17 15:56:02,543 - myproject -INFO - im in button
+2022-10-17 15:56:02,719 - myproject -INFO - im in button
+2022-10-17 15:56:02,818 - myproject -INFO - im in button
+2022-10-17 15:56:02,962 - myproject -INFO - im in texbox
+2022-10-17 15:56:03,043 - myproject -INFO - im in texbox
+2022-10-17 15:56:03,188 - myproject -INFO - im in button
+2022-10-17 15:56:03,343 - myproject -INFO - im in button
+2022-10-17 15:56:03,421 - myproject -INFO - Execution of sheet number 2
+2022-10-17 15:56:03,421 - myproject -INFO - in func library
+2022-10-17 15:56:03,426 - myproject -INFO - Opened Browser
+2022-10-17 15:56:03,578 - myproject -INFO - im in button
+2022-10-17 15:56:04,837 - myproject -INFO - im in dropdown
+2022-10-17 15:56:05,118 - myproject -INFO - im in dropdown
+2022-10-17 15:56:06,830 - myproject -INFO - im in dropdown
+2022-10-17 15:56:07,175 - myproject -INFO - im in button
+2022-10-17 15:56:07,786 - myproject -INFO - im in texbox
+2022-10-17 15:56:08,240 - myproject -INFO - im in texbox
+2022-10-17 15:56:08,403 - myproject -INFO - im in texbox
+2022-10-17 15:56:08,492 - myproject -INFO - im in texbox
+2022-10-17 15:56:08,691 - myproject -INFO - im in button
+2022-10-17 15:56:08,796 - myproject -INFO - im in button
+2022-10-17 15:56:10,133 - myproject -INFO - Execution of sheet number 3
+2022-10-17 15:56:10,133 - myproject -INFO - in func library
+2022-10-17 15:56:10,133 - myproject -INFO - Opened Browser
+2022-10-17 15:56:10,295 - myproject -INFO - im in button
+2022-10-17 15:56:11,159 - myproject -INFO - im in button
+2022-10-17 15:56:11,361 - myproject -INFO - im in button
+2022-10-17 15:58:55,312 - myproject -INFO - Reading Excel Sheet
+2022-10-17 15:58:58,604 - myproject -INFO - Execution of sheet number 1
+2022-10-17 15:58:58,621 - myproject -INFO - in func library
+2022-10-17 15:59:06,531 - myproject -INFO - Opened Browser
+2022-10-17 15:59:06,729 - myproject -INFO - im in button
+2022-10-17 15:59:08,289 - myproject -INFO - im in dropdown
+2022-10-17 15:59:10,039 - myproject -INFO - im in dropdown
+2022-10-17 15:59:10,346 - myproject -INFO - im in dropdown
+2022-10-17 15:59:10,937 - myproject -INFO - im in dropdown
+2022-10-17 16:06:18,439 - myproject -INFO - Reading Excel Sheet
+2022-10-17 16:06:20,590 - myproject -INFO - Execution of sheet number 1
+2022-10-17 16:06:20,599 - myproject -INFO - in func library
+2022-10-17 16:06:27,971 - myproject -INFO - Opened Browser
+2022-10-17 16:06:28,176 - myproject -INFO - im in button
+2022-10-17 16:06:29,952 - myproject -INFO - im in dropdown
+2022-10-17 16:06:32,224 - myproject -INFO - im in dropdown
+2022-10-17 16:06:32,500 - myproject -INFO - im in dropdown
+2022-10-17 16:06:33,137 - myproject -INFO - im in dropdown
+2022-10-17 16:10:30,100 - myproject -INFO - Reading Excel Sheet
+2022-10-17 16:10:32,600 - myproject -INFO - Execution of sheet number 1
+2022-10-17 16:10:58,187 - myproject -INFO - Reading Excel Sheet
+2022-10-17 16:11:00,961 - myproject -INFO - Execution of sheet number 1
+2022-10-17 16:11:10,381 - myproject -INFO - in func library
+2022-10-17 16:13:31,445 - myproject -INFO - Reading Excel Sheet
+2022-10-17 16:13:33,636 - myproject -INFO - Execution of sheet number 1
+2022-10-17 16:13:33,646 - myproject -INFO - in func library
+2022-10-17 16:13:41,461 - myproject -INFO - Opened Browser
+2022-10-17 16:13:41,661 - myproject -INFO - im in button
+2022-10-17 16:13:42,881 - myproject -INFO - im in dropdown
+2022-10-17 16:13:44,617 - myproject -INFO - im in dropdown
+2022-10-17 16:13:44,900 - myproject -INFO - im in dropdown
+2022-10-17 16:13:45,548 - myproject -INFO - im in dropdown
+2022-10-17 16:15:10,084 - myproject -INFO - Reading Excel Sheet
+2022-10-17 16:15:12,345 - myproject -INFO - Execution of sheet number 1
+2022-10-17 16:15:12,357 - myproject -INFO - in func library
+2022-10-17 16:15:20,710 - myproject -INFO - Opened Browser
+2022-10-17 16:15:20,927 - myproject -INFO - im in button
+2022-10-17 16:15:22,145 - myproject -INFO - im in dropdown
+2022-10-17 16:15:23,877 - myproject -INFO - im in dropdown
+2022-10-17 16:15:24,180 - myproject -INFO - im in dropdown
+2022-10-17 16:15:24,733 - myproject -INFO - im in dropdown
+2022-10-17 17:35:07,063 - myproject -INFO - Reading Excel Sheet
+2022-10-17 17:35:09,421 - myproject -INFO - Execution of sheet number 1
+2022-10-17 17:35:09,429 - myproject -INFO - in func library
+2022-10-17 17:35:17,357 - myproject -INFO - Opened Browser
+2022-10-17 17:35:17,545 - myproject -INFO - im in button
+2022-10-17 17:35:18,953 - myproject -INFO - im in dropdown
+2022-10-17 17:35:20,731 - myproject -INFO - im in dropdown
+2022-10-17 17:35:20,956 - myproject -INFO - im in dropdown
+2022-10-17 17:35:21,511 - myproject -INFO - im in dropdown
+2022-10-17 17:35:26,131 - myproject -INFO - im in dropdown
+2022-10-17 17:35:26,913 - myproject -INFO - im in texbox
+2022-10-17 17:35:30,474 - myproject -INFO - im in button
+2022-10-17 17:35:30,642 - myproject -INFO - im in button
+2022-10-17 17:35:30,739 - myproject -INFO - im in button
+2022-10-17 17:35:30,861 - myproject -INFO - im in button
+2022-10-17 17:35:30,951 - myproject -INFO - im in button
+2022-10-17 17:35:31,120 - myproject -INFO - im in button
+2022-10-17 17:35:31,202 - myproject -INFO - im in button
+2022-10-17 17:35:31,356 - myproject -INFO - im in texbox
+2022-10-17 17:35:31,451 - myproject -INFO - im in texbox
+2022-10-17 17:35:31,613 - myproject -INFO - im in button
+2022-10-17 17:35:31,768 - myproject -INFO - im in button
+2022-10-17 17:35:31,869 - myproject -INFO - Execution of sheet number 2
+2022-10-17 17:35:31,869 - myproject -INFO - in func library
+2022-10-17 17:35:31,869 - myproject -INFO - Opened Browser
+2022-10-17 17:35:32,040 - myproject -INFO - im in button
+2022-10-17 17:35:33,507 - myproject -INFO - im in dropdown
+2022-10-17 17:35:34,774 - myproject -INFO - im in dropdown
+2022-10-17 17:35:35,533 - myproject -INFO - im in dropdown
+2022-10-17 17:35:36,000 - myproject -INFO - im in button
+2022-10-17 17:35:42,727 - myproject -INFO - im in texbox
+2022-10-17 17:35:46,185 - myproject -INFO - im in texbox
+2022-10-17 17:35:46,297 - myproject -INFO - im in texbox
+2022-10-17 17:35:46,362 - myproject -INFO - im in texbox
+2022-10-17 17:35:46,507 - myproject -INFO - im in button
+2022-10-17 17:35:46,622 - myproject -INFO - im in button
+2022-10-17 17:53:18,402 - myproject -INFO - Reading Excel Sheet
+2022-10-17 17:53:20,579 - myproject -INFO - Execution of sheet number 1
+2022-10-17 17:53:20,586 - myproject -INFO - in func library
+2022-10-17 17:53:27,967 - myproject -INFO - Opened Browser
+2022-10-17 17:53:28,145 - myproject -INFO - im in button
+2022-10-17 17:53:29,553 - myproject -INFO - im in dropdown
+2022-10-17 17:53:31,285 - myproject -INFO - im in dropdown
+2022-10-17 17:53:31,508 - myproject -INFO - im in dropdown
+2022-10-17 17:53:32,024 - myproject -INFO - im in dropdown
+2022-10-17 17:53:33,588 - myproject -INFO - im in dropdown
+2022-10-17 17:53:34,410 - myproject -INFO - im in texbox
+2022-10-17 17:53:34,924 - myproject -INFO - im in button
+2022-10-17 17:53:35,045 - myproject -INFO - im in button
+2022-10-17 17:53:35,149 - myproject -INFO - im in button
+2022-10-17 17:53:35,299 - myproject -INFO - im in button
+2022-10-17 17:53:35,401 - myproject -INFO - im in button
+2022-10-17 17:53:35,584 - myproject -INFO - im in button
+2022-10-17 17:53:35,688 - myproject -INFO - im in button
+2022-10-17 17:53:35,841 - myproject -INFO - im in texbox
+2022-10-17 17:53:35,930 - myproject -INFO - im in texbox
+2022-10-17 17:53:36,064 - myproject -INFO - im in button
+2022-10-17 17:53:36,194 - myproject -INFO - im in button
+2022-10-17 17:53:36,267 - myproject -INFO - Execution of sheet number 2
+2022-10-17 17:53:36,274 - myproject -INFO - in func library
+2022-10-17 17:53:36,274 - myproject -INFO - Opened Browser
+2022-10-17 17:53:36,434 - myproject -INFO - im in button
+2022-10-17 17:53:37,655 - myproject -INFO - im in dropdown
+2022-10-17 17:53:39,007 - myproject -INFO - im in dropdown
+2022-10-17 17:53:39,754 - myproject -INFO - im in dropdown
+2022-10-17 17:53:40,044 - myproject -INFO - im in button
+2022-10-17 18:04:20,208 - myproject -INFO - Reading Excel Sheet
+2022-10-17 18:04:22,488 - myproject -INFO - Execution of sheet number 1
+2022-10-17 18:04:22,496 - myproject -INFO - in func library
+2022-10-17 18:04:30,247 - myproject -INFO - Opened Browser
+2022-10-17 18:04:30,471 - myproject -INFO - im in button
+2022-10-17 18:04:31,705 - myproject -INFO - im in dropdown
+2022-10-17 18:04:33,455 - myproject -INFO - im in dropdown
+2022-10-17 18:04:33,987 - myproject -INFO - im in dropdown
+2022-10-17 18:04:34,652 - myproject -INFO - im in dropdown
+2022-10-17 18:04:36,308 - myproject -INFO - im in dropdown
+2022-10-17 18:04:37,236 - myproject -INFO - im in texbox
+2022-10-17 18:04:37,813 - myproject -INFO - im in button
+2022-10-17 18:04:37,943 - myproject -INFO - im in button
+2022-10-17 18:04:38,056 - myproject -INFO - im in button
+2022-10-17 18:04:38,195 - myproject -INFO - im in button
+2022-10-17 18:04:38,275 - myproject -INFO - im in button
+2022-10-17 18:04:38,464 - myproject -INFO - im in button
+2022-10-17 18:04:38,560 - myproject -INFO - im in button
+2022-10-17 18:04:38,674 - myproject -INFO - im in texbox
+2022-10-17 18:04:38,738 - myproject -INFO - im in texbox
+2022-10-17 18:04:38,864 - myproject -INFO - im in button
+2022-10-17 18:04:39,015 - myproject -INFO - im in button
+2022-10-17 18:04:39,116 - myproject -INFO - Execution of sheet number 2
+2022-10-17 18:04:39,116 - myproject -INFO - in func library
+2022-10-17 18:04:39,116 - myproject -INFO - Opened Browser
+2022-10-17 18:04:39,270 - myproject -INFO - im in button
+2022-10-17 18:04:40,495 - myproject -INFO - im in dropdown
+2022-10-17 18:04:41,828 - myproject -INFO - im in dropdown
+2022-10-17 18:04:42,454 - myproject -INFO - im in dropdown
+2022-10-17 18:04:42,878 - myproject -INFO - im in button
+2022-10-17 18:04:43,467 - myproject -INFO - im in texbox
+2022-10-17 18:04:43,882 - myproject -INFO - im in texbox
+2022-10-17 18:04:43,989 - myproject -INFO - im in texbox
+2022-10-17 18:04:44,095 - myproject -INFO - im in texbox
+2022-10-17 18:04:44,227 - myproject -INFO - im in button
+2022-10-17 18:04:44,374 - myproject -INFO - im in button
+2022-10-17 18:04:45,756 - myproject -INFO - Execution of sheet number 3
+2022-10-17 18:04:45,756 - myproject -INFO - in func library
+2022-10-17 18:04:45,756 - myproject -INFO - Opened Browser
+2022-10-17 18:04:45,919 - myproject -INFO - im in button
+2022-10-17 18:04:46,619 - myproject -INFO - im in button
+2022-10-17 18:04:46,782 - myproject -INFO - im in button
+2022-10-17 18:06:18,210 - myproject -INFO - Reading Excel Sheet
+2022-10-17 18:06:20,350 - myproject -INFO - Execution of sheet number 1
+2022-10-17 18:06:20,364 - myproject -INFO - in func library
+2022-10-17 18:06:28,194 - myproject -INFO - Opened Browser
+2022-10-17 18:06:28,390 - myproject -INFO - im in button
+2022-10-17 18:06:30,173 - myproject -INFO - im in dropdown
+2022-10-17 18:06:31,931 - myproject -INFO - im in dropdown
+2022-10-17 18:06:32,292 - myproject -INFO - im in dropdown
+2022-10-17 18:06:32,869 - myproject -INFO - im in dropdown
+2022-10-17 18:06:34,429 - myproject -INFO - im in dropdown
+2022-10-17 18:06:35,455 - myproject -INFO - im in texbox
+2022-10-17 18:06:35,990 - myproject -INFO - im in button
+2022-10-17 18:06:36,135 - myproject -INFO - im in button
+2022-10-17 18:06:36,256 - myproject -INFO - im in button
+2022-10-17 18:06:36,404 - myproject -INFO - im in button
+2022-10-17 18:06:36,497 - myproject -INFO - im in button
+2022-10-17 18:06:36,694 - myproject -INFO - im in button
+2022-10-17 18:06:36,798 - myproject -INFO - im in button
+2022-10-17 18:06:36,918 - myproject -INFO - im in texbox
+2022-10-17 18:06:36,999 - myproject -INFO - im in texbox
+2022-10-17 18:06:37,131 - myproject -INFO - im in button
+2022-10-17 18:06:37,270 - myproject -INFO - im in button
+2022-10-17 18:06:37,358 - myproject -INFO - Execution of sheet number 2
+2022-10-17 18:06:37,358 - myproject -INFO - in func library
+2022-10-17 18:06:37,358 - myproject -INFO - Opened Browser
+2022-10-17 18:06:37,523 - myproject -INFO - im in button
+2022-10-17 18:06:38,783 - myproject -INFO - im in dropdown
+2022-10-17 18:06:40,438 - myproject -INFO - im in dropdown
+2022-10-17 18:06:41,052 - myproject -INFO - im in dropdown
+2022-10-17 18:06:41,527 - myproject -INFO - im in button
+2022-10-17 18:06:43,383 - myproject -INFO - im in texbox
+2022-10-17 18:06:43,807 - myproject -INFO - im in texbox
+2022-10-17 18:06:43,952 - myproject -INFO - im in texbox
+2022-10-17 18:06:44,050 - myproject -INFO - im in texbox
+2022-10-17 18:06:44,225 - myproject -INFO - im in button
+2022-10-17 18:06:44,349 - myproject -INFO - im in button
+2022-10-17 18:06:45,673 - myproject -INFO - Execution of sheet number 3
+2022-10-17 18:06:45,673 - myproject -INFO - in func library
+2022-10-17 18:06:45,673 - myproject -INFO - Opened Browser
+2022-10-17 18:06:45,830 - myproject -INFO - im in button
+2022-10-17 18:06:46,718 - myproject -INFO - im in button
+2022-10-17 18:06:46,864 - myproject -INFO - im in button
+2022-10-17 18:23:58,630 - myproject -INFO - Reading Excel Sheet
+2022-10-17 18:24:00,664 - myproject -INFO - Execution of sheet number 1
+2022-10-17 18:24:00,674 - myproject -INFO - in func library
+2022-10-17 18:24:10,724 - myproject -INFO - Opened Browser
+2022-10-17 18:24:10,912 - myproject -INFO - im in button
+2022-10-17 18:24:12,543 - myproject -INFO - im in dropdown
+2022-10-17 18:24:14,264 - myproject -INFO - im in dropdown
+2022-10-17 18:24:14,495 - myproject -INFO - im in dropdown
+2022-10-17 18:24:15,070 - myproject -INFO - im in dropdown
+2022-10-17 18:24:16,818 - myproject -INFO - im in dropdown
+2022-10-17 18:24:17,707 - myproject -INFO - im in texbox
+2022-10-17 18:24:18,203 - myproject -INFO - im in button
+2022-10-17 18:24:18,355 - myproject -INFO - im in button
+2022-10-17 18:24:18,489 - myproject -INFO - im in button
+2022-10-17 18:24:18,666 - myproject -INFO - im in button
+2022-10-17 18:24:18,769 - myproject -INFO - im in button
+2022-10-17 18:24:18,930 - myproject -INFO - im in button
+2022-10-17 18:24:19,036 - myproject -INFO - im in button
+2022-10-17 18:24:19,174 - myproject -INFO - im in texbox
+2022-10-17 18:24:19,252 - myproject -INFO - im in texbox
+2022-10-17 18:24:19,404 - myproject -INFO - im in button
+2022-10-17 18:24:19,574 - myproject -INFO - im in button
+2022-10-17 18:24:19,672 - myproject -INFO - Execution of sheet number 2
+2022-10-17 18:24:19,678 - myproject -INFO - in func library
+2022-10-17 18:24:19,678 - myproject -INFO - Opened Browser
+2022-10-17 18:24:19,824 - myproject -INFO - im in button
+2022-10-17 18:24:21,061 - myproject -INFO - im in dropdown
+2022-10-17 18:24:22,666 - myproject -INFO - im in dropdown
+2022-10-17 18:24:23,186 - myproject -INFO - im in dropdown
+2022-10-17 18:24:23,587 - myproject -INFO - im in button
+2022-10-17 18:35:27,257 - myproject -INFO - Reading Excel Sheet
+2022-10-17 18:35:29,285 - myproject -INFO - Execution of sheet number 1
+2022-10-17 18:35:29,293 - myproject -INFO - in func library
+2022-10-17 18:35:39,390 - myproject -INFO - Opened Browser
+2022-10-17 18:35:39,575 - myproject -INFO - im in button
+2022-10-17 18:35:40,880 - myproject -INFO - im in dropdown
+2022-10-17 18:35:42,646 - myproject -INFO - im in dropdown
+2022-10-17 18:35:42,930 - myproject -INFO - im in dropdown
+2022-10-17 18:35:43,520 - myproject -INFO - im in dropdown
+2022-10-17 18:35:45,334 - myproject -INFO - im in dropdown
+2022-10-17 18:35:46,208 - myproject -INFO - im in texbox
+2022-10-17 18:35:46,794 - myproject -INFO - im in button
+2022-10-17 18:35:46,963 - myproject -INFO - im in button
+2022-10-17 18:35:47,061 - myproject -INFO - im in button
+2022-10-17 18:35:47,215 - myproject -INFO - im in button
+2022-10-17 18:35:47,327 - myproject -INFO - im in button
+2022-10-17 18:35:47,638 - myproject -INFO - im in button
+2022-10-17 18:35:47,730 - myproject -INFO - im in button
+2022-10-17 18:35:47,852 - myproject -INFO - im in texbox
+2022-10-17 18:35:47,933 - myproject -INFO - im in texbox
+2022-10-17 18:35:48,072 - myproject -INFO - im in button
+2022-10-17 18:35:48,196 - myproject -INFO - im in button
+2022-10-17 18:35:48,273 - myproject -INFO - Execution of sheet number 2
+2022-10-17 18:35:48,273 - myproject -INFO - in func library
+2022-10-17 18:35:48,281 - myproject -INFO - Opened Browser
+2022-10-17 18:35:48,435 - myproject -INFO - im in button
+2022-10-17 18:35:49,816 - myproject -INFO - im in dropdown
+2022-10-17 18:35:51,437 - myproject -INFO - im in dropdown
+2022-10-17 18:35:52,086 - myproject -INFO - im in dropdown
+2022-10-17 18:35:52,508 - myproject -INFO - im in button
+2022-10-17 18:36:54,891 - myproject -INFO - Reading Excel Sheet
+2022-10-17 18:36:57,032 - myproject -INFO - Execution of sheet number 1
+2022-10-17 18:36:57,042 - myproject -INFO - in func library
+2022-10-17 18:37:05,926 - myproject -INFO - Opened Browser
+2022-10-17 18:37:06,121 - myproject -INFO - im in button
+2022-10-17 18:37:07,794 - myproject -INFO - im in dropdown
+2022-10-17 18:37:09,786 - myproject -INFO - im in dropdown
+2022-10-17 18:37:10,100 - myproject -INFO - im in dropdown
+2022-10-17 18:37:10,622 - myproject -INFO - im in dropdown
+2022-10-17 18:37:12,407 - myproject -INFO - im in dropdown
+2022-10-17 18:37:13,309 - myproject -INFO - im in texbox
+2022-10-17 18:37:13,992 - myproject -INFO - im in button
+2022-10-17 18:37:14,135 - myproject -INFO - im in button
+2022-10-17 18:37:14,234 - myproject -INFO - im in button
+2022-10-17 18:37:14,381 - myproject -INFO - im in button
+2022-10-17 18:37:14,485 - myproject -INFO - im in button
+2022-10-17 18:37:14,603 - myproject -INFO - im in button
+2022-10-17 18:37:14,664 - myproject -INFO - im in button
+2022-10-17 18:37:14,746 - myproject -INFO - im in texbox
+2022-10-17 18:37:14,803 - myproject -INFO - im in texbox
+2022-10-17 18:37:14,906 - myproject -INFO - im in button
+2022-10-17 18:37:15,037 - myproject -INFO - im in button
+2022-10-17 18:37:15,109 - myproject -INFO - Execution of sheet number 2
+2022-10-17 18:37:15,109 - myproject -INFO - in func library
+2022-10-17 18:37:15,109 - myproject -INFO - Opened Browser
+2022-10-17 18:37:15,263 - myproject -INFO - im in button
+2022-10-17 18:37:16,471 - myproject -INFO - im in dropdown
+2022-10-17 18:37:18,337 - myproject -INFO - im in dropdown
+2022-10-17 18:37:19,000 - myproject -INFO - im in dropdown
+2022-10-17 18:37:19,326 - myproject -INFO - im in button
+2022-10-17 18:38:47,701 - myproject -INFO - Reading Excel Sheet
+2022-10-17 18:38:49,703 - myproject -INFO - Execution of sheet number 1
+2022-10-17 18:38:49,713 - myproject -INFO - in func library
+2022-10-17 18:38:57,510 - myproject -INFO - Opened Browser
+2022-10-17 18:38:57,753 - myproject -INFO - im in button
+2022-10-17 18:38:59,654 - myproject -INFO - im in dropdown
+2022-10-17 18:39:01,383 - myproject -INFO - im in dropdown
+2022-10-17 18:39:01,633 - myproject -INFO - im in dropdown
+2022-10-17 18:39:02,238 - myproject -INFO - im in dropdown
+2022-10-17 18:39:03,715 - myproject -INFO - im in dropdown
+2022-10-17 18:39:04,620 - myproject -INFO - im in texbox
+2022-10-17 18:39:05,103 - myproject -INFO - im in button
+2022-10-17 18:39:05,256 - myproject -INFO - im in button
+2022-10-17 18:39:05,384 - myproject -INFO - im in button
+2022-10-17 18:39:05,577 - myproject -INFO - im in button
+2022-10-17 18:39:05,716 - myproject -INFO - im in button
+2022-10-17 18:39:05,846 - myproject -INFO - im in button
+2022-10-17 18:39:05,926 - myproject -INFO - im in button
+2022-10-17 18:39:06,056 - myproject -INFO - im in texbox
+2022-10-17 18:39:06,145 - myproject -INFO - im in texbox
+2022-10-17 18:39:06,306 - myproject -INFO - im in button
+2022-10-17 18:39:06,478 - myproject -INFO - im in button
+2022-10-17 18:39:06,572 - myproject -INFO - Execution of sheet number 2
+2022-10-17 18:39:06,572 - myproject -INFO - in func library
+2022-10-17 18:39:06,572 - myproject -INFO - Opened Browser
+2022-10-17 18:39:06,734 - myproject -INFO - im in button
+2022-10-17 18:39:08,057 - myproject -INFO - im in dropdown
+2022-10-17 18:39:09,925 - myproject -INFO - im in dropdown
+2022-10-17 18:39:10,730 - myproject -INFO - im in dropdown
+2022-10-17 18:39:11,083 - myproject -INFO - im in button
+2022-10-17 18:39:11,826 - myproject -INFO - im in texbox
+2022-10-17 18:39:12,326 - myproject -INFO - im in texbox
+2022-10-17 18:39:12,465 - myproject -INFO - im in texbox
+2022-10-17 18:39:12,546 - myproject -INFO - im in texbox
+2022-10-17 18:39:12,739 - myproject -INFO - im in button
+2022-10-17 18:39:12,878 - myproject -INFO - im in button
+2022-10-17 18:39:14,224 - myproject -INFO - Execution of sheet number 3
+2022-10-17 18:39:14,226 - myproject -INFO - in func library
+2022-10-17 18:39:14,226 - myproject -INFO - Opened Browser
+2022-10-17 18:39:14,384 - myproject -INFO - im in button
+2022-10-17 18:39:15,088 - myproject -INFO - im in button
+2022-10-17 18:39:15,265 - myproject -INFO - im in button
+2022-10-17 21:17:23,291 - myproject -INFO - Reading Excel Sheet
+2022-10-17 21:17:25,206 - myproject -INFO - Execution of sheet number 1
+2022-10-17 21:17:25,219 - myproject -INFO - in func library
+2022-10-17 21:18:50,927 - myproject -INFO - Reading Excel Sheet
+2022-10-17 21:18:52,575 - myproject -INFO - Execution of sheet number 1
+2022-10-17 21:18:52,585 - myproject -INFO - in func library
+2022-10-17 21:19:05,858 - myproject -INFO - Opened Browser
+2022-10-17 21:19:06,036 - myproject -INFO - im in button
+2022-10-17 21:19:07,734 - myproject -INFO - im in dropdown
+2022-10-17 21:19:07,901 - myproject -INFO - im in dropdown
+2022-10-17 21:19:10,047 - myproject -INFO - im in dropdown
+2022-10-17 21:19:10,494 - myproject -INFO - im in dropdown
+2022-10-17 21:19:13,830 - myproject -INFO - im in dropdown
+2022-10-17 21:19:14,528 - myproject -INFO - im in texbox
+2022-10-17 21:19:16,859 - myproject -INFO - im in button
+2022-10-17 21:19:16,955 - myproject -INFO - im in button
+2022-10-17 21:19:17,019 - myproject -INFO - im in button
+2022-10-17 21:19:17,104 - myproject -INFO - im in button
+2022-10-17 21:19:17,171 - myproject -INFO - im in button
+2022-10-17 21:19:17,323 - myproject -INFO - im in button
+2022-10-17 21:19:17,384 - myproject -INFO - im in button
+2022-10-17 21:19:17,473 - myproject -INFO - im in texbox
+2022-10-17 21:19:17,524 - myproject -INFO - im in texbox
+2022-10-17 21:19:17,604 - myproject -INFO - im in button
+2022-10-17 21:19:17,704 - myproject -INFO - im in button
+2022-10-17 21:19:17,764 - myproject -INFO - Execution of sheet number 2
+2022-10-17 21:19:17,764 - myproject -INFO - in func library
+2022-10-17 21:19:17,765 - myproject -INFO - Opened Browser
+2022-10-17 21:19:17,927 - myproject -INFO - im in button
+2022-10-17 21:19:19,477 - myproject -INFO - im in dropdown
+2022-10-17 21:19:19,658 - myproject -INFO - im in dropdown
+2022-10-17 21:19:21,715 - myproject -INFO - im in dropdown
+2022-10-17 21:19:21,954 - myproject -INFO - im in button
+2022-10-17 21:19:26,459 - myproject -INFO - im in texbox
+2022-10-17 21:19:28,809 - myproject -INFO - im in texbox
+2022-10-17 21:19:28,898 - myproject -INFO - im in texbox
+2022-10-17 21:19:28,953 - myproject -INFO - im in texbox
+2022-10-17 21:19:29,089 - myproject -INFO - im in button
+2022-10-17 21:19:29,154 - myproject -INFO - im in button
+2022-10-17 21:19:30,943 - myproject -INFO - Execution of sheet number 3
+2022-10-17 21:19:30,944 - myproject -INFO - in func library
+2022-10-17 21:19:30,944 - myproject -INFO - Opened Browser
+2022-10-17 21:19:31,089 - myproject -INFO - im in button
+2022-10-17 21:19:31,728 - myproject -INFO - im in button
+2022-10-17 21:19:31,826 - myproject -INFO - im in button
+2022-10-17 21:21:24,554 - myproject -INFO - Reading Excel Sheet
+2022-10-17 21:21:25,988 - myproject -INFO - Execution of sheet number 1
+2022-10-17 21:21:25,994 - myproject -INFO - in func library
+2022-10-17 21:21:34,297 - myproject -INFO - Opened Browser
+2022-10-17 21:21:34,461 - myproject -INFO - im in button
+2022-10-17 21:21:36,258 - myproject -INFO - im in dropdown
+2022-10-17 21:21:36,403 - myproject -INFO - im in dropdown
+2022-10-17 21:21:38,560 - myproject -INFO - im in dropdown
+2022-10-17 21:21:39,147 - myproject -INFO - im in dropdown
+2022-10-17 21:23:53,940 - myproject -INFO - Reading Excel Sheet
+2022-10-17 21:23:55,855 - myproject -INFO - Execution of sheet number 1
+2022-10-17 21:23:55,864 - myproject -INFO - in func library
+2022-10-17 21:24:04,023 - myproject -INFO - Opened Browser
+2022-10-17 21:24:09,178 - myproject -INFO - im in button
+2022-10-17 21:24:11,025 - myproject -INFO - im in dropdown
+2022-10-17 21:24:11,183 - myproject -INFO - im in dropdown
+2022-10-17 21:24:12,905 - myproject -INFO - im in dropdown
+2022-10-17 21:24:13,511 - myproject -INFO - im in dropdown
+2022-10-17 21:28:16,265 - myproject -INFO - Reading Excel Sheet
+2022-10-17 21:28:18,011 - myproject -INFO - Execution of sheet number 1
+2022-10-17 21:28:18,021 - myproject -INFO - in func library
+2022-10-17 21:28:26,219 - myproject -INFO - Opened Browser
+2022-10-17 21:28:26,394 - myproject -INFO - im in button
+2022-10-17 21:28:28,291 - myproject -INFO - im in dropdown
+2022-10-17 21:28:28,453 - myproject -INFO - im in dropdown
+2022-10-17 21:28:30,678 - myproject -INFO - im in dropdown
+2022-10-17 21:28:31,139 - myproject -INFO - im in dropdown
+2022-10-17 21:36:30,412 - myproject -INFO - Reading Excel Sheet
+2022-10-17 21:36:32,910 - myproject -INFO - Execution of sheet number 1
+2022-10-17 21:36:32,924 - myproject -INFO - in func library
+2022-10-17 21:36:44,747 - myproject -INFO - Opened Browser
+2022-10-17 21:36:49,892 - myproject -INFO - im in button
+2022-10-17 21:36:51,593 - myproject -INFO - im in dropdown
+2022-10-17 21:36:51,716 - myproject -INFO - im in dropdown
+2022-10-17 21:36:53,315 - myproject -INFO - im in dropdown
+2022-10-17 21:36:53,736 - myproject -INFO - im in dropdown
+2022-10-17 21:40:05,942 - myproject -INFO - Reading Excel Sheet
+2022-10-17 21:40:07,335 - myproject -INFO - Execution of sheet number 1
+2022-10-17 21:40:07,342 - myproject -INFO - in func library
+2022-10-17 21:40:15,804 - myproject -INFO - Opened Browser
+2022-10-17 21:40:15,971 - myproject -INFO - im in button
+2022-10-17 21:40:18,369 - myproject -INFO - im in dropdown
+2022-10-17 21:40:18,559 - myproject -INFO - im in dropdown
+2022-10-17 21:40:20,254 - myproject -INFO - im in dropdown
+2022-10-17 21:40:20,779 - myproject -INFO - im in dropdown
+2022-10-17 21:44:11,232 - myproject -INFO - Reading Excel Sheet
+2022-10-17 21:44:12,831 - myproject -INFO - Execution of sheet number 1
+2022-10-17 21:44:12,839 - myproject -INFO - in func library
+2022-10-17 21:44:21,575 - myproject -INFO - Opened Browser
+2022-10-17 21:44:21,728 - myproject -INFO - im in button
+2022-10-17 21:44:22,965 - myproject -INFO - im in dropdown
+2022-10-17 21:44:23,133 - myproject -INFO - im in dropdown
+2022-10-17 21:44:24,831 - myproject -INFO - im in dropdown
+2022-10-17 21:44:25,307 - myproject -INFO - im in dropdown
+2022-10-17 21:46:58,037 - myproject -INFO - Reading Excel Sheet
+2022-10-17 21:46:59,596 - myproject -INFO - Execution of sheet number 1
+2022-10-17 21:46:59,603 - myproject -INFO - in func library
+2022-10-17 21:47:08,577 - myproject -INFO - Opened Browser
+2022-10-17 21:47:08,741 - myproject -INFO - im in button
+2022-10-17 21:47:10,519 - myproject -INFO - im in dropdown
+2022-10-17 21:47:10,640 - myproject -INFO - im in dropdown
+2022-10-17 21:47:10,771 - myproject -INFO - im in dropdown
+2022-10-17 21:47:12,847 - myproject -INFO - im in dropdown
+2022-10-17 21:48:52,188 - myproject -INFO - Reading Excel Sheet
+2022-10-17 21:48:53,660 - myproject -INFO - Execution of sheet number 1
+2022-10-17 21:48:53,666 - myproject -INFO - in func library
+2022-10-17 21:49:01,724 - myproject -INFO - Opened Browser
+2022-10-17 21:49:01,881 - myproject -INFO - im in button
+2022-10-17 21:49:03,751 - myproject -INFO - im in dropdown
+2022-10-17 21:49:03,985 - myproject -INFO - im in dropdown
+2022-10-17 21:49:06,452 - myproject -INFO - im in dropdown
+2022-10-17 21:49:06,954 - myproject -INFO - im in dropdown
+2022-10-17 21:49:09,477 - myproject -INFO - im in dropdown
+2022-10-17 21:49:10,570 - myproject -INFO - im in texbox
+2022-10-17 21:49:10,945 - myproject -INFO - im in button
+2022-10-17 21:49:11,038 - myproject -INFO - im in button
+2022-10-17 21:49:11,111 - myproject -INFO - im in button
+2022-10-17 21:49:11,193 - myproject -INFO - im in button
+2022-10-17 21:49:11,274 - myproject -INFO - im in button
+2022-10-17 21:49:11,415 - myproject -INFO - im in button
+2022-10-17 21:49:11,472 - myproject -INFO - im in button
+2022-10-17 21:49:11,567 - myproject -INFO - im in texbox
+2022-10-17 21:49:11,620 - myproject -INFO - im in texbox
+2022-10-17 21:49:11,707 - myproject -INFO - im in button
+2022-10-17 21:49:11,808 - myproject -INFO - im in button
+2022-10-17 21:49:11,872 - myproject -INFO - Execution of sheet number 2
+2022-10-17 21:49:11,872 - myproject -INFO - in func library
+2022-10-17 21:49:11,872 - myproject -INFO - Opened Browser
+2022-10-17 21:49:12,037 - myproject -INFO - im in button
+2022-10-17 21:49:13,248 - myproject -INFO - im in dropdown
+2022-10-17 21:49:15,105 - myproject -INFO - im in dropdown
+2022-10-17 21:49:15,688 - myproject -INFO - im in dropdown
+2022-10-17 21:49:15,954 - myproject -INFO - im in button
+2022-10-17 21:49:18,440 - myproject -INFO - im in texbox
+2022-10-17 21:49:18,771 - myproject -INFO - im in texbox
+2022-10-17 21:49:18,879 - myproject -INFO - im in texbox
+2022-10-17 21:49:18,953 - myproject -INFO - im in texbox
+2022-10-17 21:49:19,079 - myproject -INFO - im in button
+2022-10-17 21:49:19,142 - myproject -INFO - im in button
+2022-10-17 21:49:20,521 - myproject -INFO - Execution of sheet number 3
+2022-10-17 21:49:20,523 - myproject -INFO - in func library
+2022-10-17 21:49:20,523 - myproject -INFO - Opened Browser
+2022-10-17 21:49:20,676 - myproject -INFO - im in button
+2022-10-17 21:49:21,674 - myproject -INFO - im in button
+2022-10-17 21:49:21,765 - myproject -INFO - im in button
+2022-10-17 21:50:36,163 - myproject -INFO - Reading Excel Sheet
+2022-10-17 21:50:37,621 - myproject -INFO - Execution of sheet number 1
+2022-10-17 21:50:37,626 - myproject -INFO - in func library
+2022-10-17 21:50:46,451 - myproject -INFO - Opened Browser
+2022-10-17 21:50:46,613 - myproject -INFO - im in button
+2022-10-17 21:50:49,275 - myproject -INFO - im in dropdown
+2022-10-17 21:50:49,429 - myproject -INFO - im in dropdown
+2022-10-17 21:50:51,315 - myproject -INFO - im in dropdown
+2022-10-17 21:50:51,942 - myproject -INFO - im in dropdown
+2022-10-17 21:50:53,447 - myproject -INFO - im in dropdown
+2022-10-17 21:50:54,149 - myproject -INFO - im in texbox
+2022-10-17 21:50:54,561 - myproject -INFO - im in button
+2022-10-17 21:50:54,654 - myproject -INFO - im in button
+2022-10-17 21:50:54,729 - myproject -INFO - im in button
+2022-10-17 21:50:54,820 - myproject -INFO - im in button
+2022-10-17 21:50:54,884 - myproject -INFO - im in button
+2022-10-17 21:50:55,000 - myproject -INFO - im in button
+2022-10-17 21:50:55,041 - myproject -INFO - im in button
+2022-10-17 21:50:55,129 - myproject -INFO - im in texbox
+2022-10-17 21:50:55,184 - myproject -INFO - im in texbox
+2022-10-17 21:50:55,281 - myproject -INFO - im in button
+2022-10-17 21:50:55,373 - myproject -INFO - im in button
+2022-10-17 21:50:55,431 - myproject -INFO - Execution of sheet number 2
+2022-10-17 21:50:55,433 - myproject -INFO - in func library
+2022-10-17 21:50:55,433 - myproject -INFO - Opened Browser
+2022-10-17 21:50:55,585 - myproject -INFO - im in button
+2022-10-17 21:50:57,121 - myproject -INFO - im in dropdown
+2022-10-17 21:50:57,297 - myproject -INFO - im in dropdown
+2022-10-17 21:50:59,341 - myproject -INFO - im in dropdown
+2022-10-17 21:50:59,630 - myproject -INFO - im in button
+2022-10-17 21:51:01,888 - myproject -INFO - im in texbox
+2022-10-17 21:51:02,206 - myproject -INFO - im in texbox
+2022-10-17 21:51:02,303 - myproject -INFO - im in texbox
+2022-10-17 21:51:02,361 - myproject -INFO - im in texbox
+2022-10-17 21:51:02,469 - myproject -INFO - im in button
+2022-10-17 21:51:02,531 - myproject -INFO - im in button
+2022-10-17 21:51:03,859 - myproject -INFO - Execution of sheet number 3
+2022-10-17 21:51:03,859 - myproject -INFO - in func library
+2022-10-17 21:51:03,860 - myproject -INFO - Opened Browser
+2022-10-17 21:51:04,006 - myproject -INFO - im in button
+2022-10-17 21:51:04,630 - myproject -INFO - im in button
+2022-10-17 21:51:04,735 - myproject -INFO - im in button
+2022-10-17 21:52:12,890 - myproject -INFO - Reading Excel Sheet
+2022-10-17 21:52:14,408 - myproject -INFO - Execution of sheet number 1
+2022-10-17 21:52:14,413 - myproject -INFO - in func library
+2022-10-17 21:52:23,268 - myproject -INFO - Opened Browser
+2022-10-17 21:52:23,438 - myproject -INFO - im in button
+2022-10-17 21:52:25,158 - myproject -INFO - im in dropdown
+2022-10-17 21:52:25,292 - myproject -INFO - im in dropdown
+2022-10-17 21:52:26,932 - myproject -INFO - im in dropdown
+2022-10-17 21:52:27,448 - myproject -INFO - im in dropdown
+2022-10-17 21:52:28,661 - myproject -INFO - im in dropdown
+2022-10-17 21:52:29,358 - myproject -INFO - im in texbox
+2022-10-17 21:52:29,772 - myproject -INFO - im in button
+2022-10-17 21:52:29,867 - myproject -INFO - im in button
+2022-10-17 21:52:29,929 - myproject -INFO - im in button
+2022-10-17 21:52:30,020 - myproject -INFO - im in button
+2022-10-17 21:52:30,081 - myproject -INFO - im in button
+2022-10-17 21:52:30,192 - myproject -INFO - im in button
+2022-10-17 21:52:30,241 - myproject -INFO - im in button
+2022-10-17 21:52:30,333 - myproject -INFO - im in texbox
+2022-10-17 21:52:30,393 - myproject -INFO - im in texbox
+2022-10-17 21:52:30,516 - myproject -INFO - im in button
+2022-10-17 21:52:30,629 - myproject -INFO - im in button
+2022-10-17 21:52:30,690 - myproject -INFO - Execution of sheet number 2
+2022-10-17 21:52:30,692 - myproject -INFO - in func library
+2022-10-17 21:52:30,692 - myproject -INFO - Opened Browser
+2022-10-17 21:52:30,854 - myproject -INFO - im in button
+2022-10-17 21:52:32,416 - myproject -INFO - im in dropdown
+2022-10-17 21:52:32,583 - myproject -INFO - im in dropdown
+2022-10-17 21:52:34,563 - myproject -INFO - im in dropdown
+2022-10-17 21:52:34,749 - myproject -INFO - im in button
+2022-10-17 21:52:36,940 - myproject -INFO - im in texbox
+2022-10-17 21:52:37,196 - myproject -INFO - im in texbox
+2022-10-17 21:52:37,244 - myproject -INFO - im in texbox
+2022-10-17 21:52:37,278 - myproject -INFO - im in texbox
+2022-10-17 21:52:37,348 - myproject -INFO - im in button
+2022-10-17 21:52:37,403 - myproject -INFO - im in button
+2022-10-17 21:52:38,696 - myproject -INFO - Execution of sheet number 3
+2022-10-17 21:52:38,697 - myproject -INFO - in func library
+2022-10-17 21:52:38,697 - myproject -INFO - Opened Browser
+2022-10-17 21:52:38,849 - myproject -INFO - im in button
+2022-10-17 21:52:39,457 - myproject -INFO - im in button
+2022-10-17 21:52:39,551 - myproject -INFO - im in button
+2022-10-17 21:53:21,277 - myproject -INFO - Reading Excel Sheet
+2022-10-17 21:53:22,858 - myproject -INFO - Execution of sheet number 1
+2022-10-17 21:53:22,863 - myproject -INFO - in func library
+2022-10-17 21:53:31,010 - myproject -INFO - Opened Browser
+2022-10-17 21:53:31,205 - myproject -INFO - im in button
+2022-10-17 21:53:32,401 - myproject -INFO - im in dropdown
+2022-10-17 21:53:32,528 - myproject -INFO - im in dropdown
+2022-10-17 21:53:34,641 - myproject -INFO - im in dropdown
+2022-10-17 21:53:35,102 - myproject -INFO - im in dropdown
+2022-10-17 21:53:36,434 - myproject -INFO - im in dropdown
+2022-10-17 21:53:37,147 - myproject -INFO - im in texbox
+2022-10-17 21:53:37,487 - myproject -INFO - im in button
+2022-10-17 21:53:37,565 - myproject -INFO - im in button
+2022-10-17 21:53:37,618 - myproject -INFO - im in button
+2022-10-17 21:53:37,679 - myproject -INFO - im in button
+2022-10-17 21:53:37,728 - myproject -INFO - im in button
+2022-10-17 21:53:37,814 - myproject -INFO - im in button
+2022-10-17 21:53:37,861 - myproject -INFO - im in button
+2022-10-17 21:53:37,922 - myproject -INFO - im in texbox
+2022-10-17 21:53:37,950 - myproject -INFO - im in texbox
+2022-10-17 21:53:37,998 - myproject -INFO - im in button
+2022-10-17 21:53:38,079 - myproject -INFO - im in button
+2022-10-17 21:53:38,129 - myproject -INFO - Execution of sheet number 2
+2022-10-17 21:53:38,129 - myproject -INFO - in func library
+2022-10-17 21:53:38,130 - myproject -INFO - Opened Browser
+2022-10-17 21:53:38,263 - myproject -INFO - im in button
+2022-10-17 21:53:39,544 - myproject -INFO - im in dropdown
+2022-10-17 21:53:39,706 - myproject -INFO - im in dropdown
+2022-10-17 21:53:41,699 - myproject -INFO - im in dropdown
+2022-10-17 21:53:41,865 - myproject -INFO - im in button
+2022-10-17 21:53:42,334 - myproject -INFO - im in texbox
+2022-10-17 21:53:42,517 - myproject -INFO - im in texbox
+2022-10-17 21:53:42,577 - myproject -INFO - im in texbox
+2022-10-17 21:53:42,612 - myproject -INFO - im in texbox
+2022-10-17 21:53:42,691 - myproject -INFO - im in button
+2022-10-17 21:53:42,742 - myproject -INFO - im in button
+2022-10-17 21:53:44,061 - myproject -INFO - Execution of sheet number 3
+2022-10-17 21:53:44,062 - myproject -INFO - in func library
+2022-10-17 21:53:44,063 - myproject -INFO - Opened Browser
+2022-10-17 21:53:44,200 - myproject -INFO - im in button
+2022-10-17 21:53:44,809 - myproject -INFO - im in button
+2022-10-17 21:53:44,899 - myproject -INFO - im in button
+2022-10-17 21:54:33,133 - myproject -INFO - Reading Excel Sheet
+2022-10-17 21:54:35,082 - myproject -INFO - Execution of sheet number 1
+2022-10-17 21:54:35,089 - myproject -INFO - in func library
+2022-10-17 21:54:44,859 - myproject -INFO - Opened Browser
+2022-10-17 21:54:45,033 - myproject -INFO - im in button
+2022-10-17 21:54:46,933 - myproject -INFO - im in dropdown
+2022-10-17 21:54:47,072 - myproject -INFO - im in dropdown
+2022-10-17 21:54:48,702 - myproject -INFO - im in dropdown
+2022-10-17 21:54:49,226 - myproject -INFO - im in dropdown
+2022-10-17 21:54:51,099 - myproject -INFO - im in dropdown
+2022-10-17 21:54:52,148 - myproject -INFO - im in texbox
+2022-10-17 21:54:52,434 - myproject -INFO - im in button
+2022-10-17 21:54:52,521 - myproject -INFO - im in button
+2022-10-17 21:54:52,573 - myproject -INFO - im in button
+2022-10-17 21:54:52,657 - myproject -INFO - im in button
+2022-10-17 21:54:52,729 - myproject -INFO - im in button
+2022-10-17 21:54:52,823 - myproject -INFO - im in button
+2022-10-17 21:54:52,868 - myproject -INFO - im in button
+2022-10-17 21:54:52,939 - myproject -INFO - im in texbox
+2022-10-17 21:54:52,977 - myproject -INFO - im in texbox
+2022-10-17 21:54:53,037 - myproject -INFO - im in button
+2022-10-17 21:54:53,111 - myproject -INFO - im in button
+2022-10-17 21:54:53,169 - myproject -INFO - Execution of sheet number 2
+2022-10-17 21:54:53,169 - myproject -INFO - in func library
+2022-10-17 21:54:53,169 - myproject -INFO - Opened Browser
+2022-10-17 21:54:53,312 - myproject -INFO - im in button
+2022-10-17 21:54:54,416 - myproject -INFO - im in dropdown
+2022-10-17 21:54:54,567 - myproject -INFO - im in dropdown
+2022-10-17 21:54:56,660 - myproject -INFO - im in dropdown
+2022-10-17 21:54:56,827 - myproject -INFO - im in button
+2022-10-17 21:54:57,228 - myproject -INFO - im in texbox
+2022-10-17 21:54:57,423 - myproject -INFO - im in texbox
+2022-10-17 21:54:57,480 - myproject -INFO - im in texbox
+2022-10-17 21:54:57,517 - myproject -INFO - im in texbox
+2022-10-17 21:54:57,599 - myproject -INFO - im in button
+2022-10-17 21:54:57,658 - myproject -INFO - im in button
+2022-10-17 21:54:59,386 - myproject -INFO - Execution of sheet number 3
+2022-10-17 21:54:59,387 - myproject -INFO - in func library
+2022-10-17 21:54:59,387 - myproject -INFO - Opened Browser
+2022-10-17 21:54:59,519 - myproject -INFO - im in button
+2022-10-17 21:55:00,322 - myproject -INFO - im in button
+2022-10-17 21:55:00,425 - myproject -INFO - im in button
+2022-10-17 23:30:11,093 - myproject -INFO - Reading Excel Sheet
+2022-10-17 23:30:12,650 - myproject -INFO - Execution of sheet number 1
+2022-10-17 23:30:12,656 - myproject -INFO - in func library
+2022-10-18 10:22:17,291 - myproject -INFO - Reading Excel Sheet
+2022-10-18 10:22:19,919 - myproject -INFO - Execution of sheet number 1
+2022-10-18 10:22:19,931 - myproject -INFO - in func library
+2022-10-18 10:22:31,465 - myproject -INFO - Opened Browser
+2022-10-18 10:22:31,700 - myproject -INFO - im in button
+2022-10-18 10:22:32,855 - myproject -INFO - im in dropdown
+2022-10-18 10:22:34,501 - myproject -INFO - im in dropdown
+2022-10-18 10:22:34,802 - myproject -INFO - im in dropdown
+2022-10-18 10:22:35,391 - myproject -INFO - im in dropdown
+2022-10-18 10:22:36,945 - myproject -INFO - im in dropdown
+2022-10-18 10:22:37,820 - myproject -INFO - im in texbox
+2022-10-18 10:22:38,534 - myproject -INFO - im in button
+2022-10-18 10:22:38,747 - myproject -INFO - im in button
+2022-10-18 10:22:38,905 - myproject -INFO - im in button
+2022-10-18 10:22:39,102 - myproject -INFO - im in button
+2022-10-18 10:22:39,226 - myproject -INFO - im in button
+2022-10-18 10:22:39,390 - myproject -INFO - im in button
+2022-10-18 10:22:39,494 - myproject -INFO - im in button
+2022-10-18 10:22:39,647 - myproject -INFO - im in texbox
+2022-10-18 10:22:39,741 - myproject -INFO - im in texbox
+2022-10-18 10:22:39,902 - myproject -INFO - im in button
+2022-10-18 10:22:40,087 - myproject -INFO - im in button
+2022-10-18 10:22:40,204 - myproject -INFO - Execution of sheet number 2
+2022-10-18 10:22:40,204 - myproject -INFO - in func library
+2022-10-18 10:22:40,204 - myproject -INFO - Opened Browser
+2022-10-18 10:22:40,355 - myproject -INFO - im in button
+2022-10-18 10:22:41,698 - myproject -INFO - im in dropdown
+2022-10-18 10:22:44,258 - myproject -INFO - im in dropdown
+2022-10-18 10:22:44,882 - myproject -INFO - im in dropdown
+2022-10-18 10:22:45,253 - myproject -INFO - im in button
+2022-10-18 10:22:46,380 - myproject -INFO - im in texbox
+2022-10-18 10:22:46,940 - myproject -INFO - im in texbox
+2022-10-18 10:22:47,094 - myproject -INFO - im in texbox
+2022-10-18 10:22:47,218 - myproject -INFO - im in texbox
+2022-10-18 10:22:47,402 - myproject -INFO - im in button
+2022-10-18 10:22:47,556 - myproject -INFO - im in button
+2022-10-18 10:22:48,961 - myproject -INFO - Execution of sheet number 3
+2022-10-18 10:22:48,962 - myproject -INFO - in func library
+2022-10-18 10:22:48,963 - myproject -INFO - Opened Browser
+2022-10-18 10:22:49,127 - myproject -INFO - im in button
+2022-10-18 10:22:49,860 - myproject -INFO - im in button
+2022-10-18 10:22:50,102 - myproject -INFO - im in button
+2022-10-18 12:44:56,464 - myproject -INFO - Reading Excel Sheet
+2022-10-18 12:44:58,964 - myproject -INFO - Execution of sheet number 1
+2022-10-18 12:44:58,973 - myproject -INFO - in func library
+2022-10-18 12:45:11,894 - myproject -INFO - Opened Browser
+2022-10-18 12:45:29,170 - myproject -INFO - im in button
+2022-10-18 12:45:47,466 - myproject -INFO - im in dropdown
+2022-10-18 12:45:58,447 - myproject -INFO - im in dropdown
+2022-10-18 12:46:06,394 - myproject -INFO - im in dropdown
+2022-10-18 12:46:16,328 - myproject -INFO - im in dropdown
+2022-10-18 12:46:29,778 - myproject -INFO - im in dropdown
+2022-10-18 12:46:31,624 - myproject -INFO - im in texbox
+2022-10-18 12:46:41,934 - myproject -INFO - im in button
+2022-10-18 12:46:43,022 - myproject -INFO - im in button
+2022-10-18 12:48:20,657 - myproject -INFO - Reading Excel Sheet
+2022-10-18 12:48:23,407 - myproject -INFO - Execution of sheet number 1
+2022-10-18 12:48:23,417 - myproject -INFO - in func library
+2022-10-18 12:48:31,314 - myproject -INFO - Opened Browser
+2022-10-18 12:48:41,338 - myproject -INFO - im in button
+2022-10-18 12:48:56,393 - myproject -INFO - im in dropdown
+2022-10-18 12:49:05,710 - myproject -INFO - im in dropdown
+2022-10-18 12:49:16,785 - myproject -INFO - im in dropdown
+2022-10-18 12:49:20,992 - myproject -INFO - im in dropdown
+2022-10-18 12:49:52,044 - myproject -INFO - im in dropdown
+2022-10-18 12:50:00,656 - myproject -INFO - im in texbox
+2022-10-18 12:50:34,975 - myproject -INFO - im in button
+2022-10-18 12:51:12,863 - myproject -INFO - im in button
+2022-10-18 12:51:23,222 - myproject -INFO - im in button
+2022-10-18 12:51:40,257 - myproject -INFO - im in button
+2022-10-18 12:51:50,573 - myproject -INFO - im in button
+2022-10-18 12:51:54,184 - myproject -INFO - im in button
+2022-10-18 12:51:59,101 - myproject -INFO - im in button
+2022-10-18 12:52:10,696 - myproject -INFO - im in texbox
+2022-10-18 12:52:29,144 - myproject -INFO - im in texbox
+2022-10-18 12:52:35,470 - myproject -INFO - im in button
+2022-10-18 12:52:47,355 - myproject -INFO - im in button
+2022-10-18 12:53:04,187 - myproject -INFO - Execution of sheet number 2
+2022-10-18 12:53:12,948 - myproject -INFO - in func library
+2022-10-18 12:53:13,792 - myproject -INFO - Opened Browser
+2022-10-18 12:53:32,652 - myproject -INFO - im in button
+2022-10-18 12:53:47,660 - myproject -INFO - im in dropdown
+2022-10-18 12:53:50,383 - myproject -INFO - im in dropdown
+2022-10-18 12:53:52,013 - myproject -INFO - im in dropdown
+2022-10-18 12:53:53,284 - myproject -INFO - im in button
+2022-10-18 12:56:20,273 - myproject -INFO - Reading Excel Sheet
+2022-10-18 12:56:22,359 - myproject -INFO - Execution of sheet number 1
+2022-10-18 12:56:22,374 - myproject -INFO - in func library
+2022-10-18 12:56:30,097 - myproject -INFO - Opened Browser
+2022-10-18 12:56:30,273 - myproject -INFO - im in button
+2022-10-18 12:56:32,664 - myproject -INFO - im in dropdown
+2022-10-18 12:56:34,291 - myproject -INFO - im in dropdown
+2022-10-18 12:56:34,611 - myproject -INFO - im in dropdown
+2022-10-18 12:56:35,175 - myproject -INFO - im in dropdown
+2022-10-18 12:56:36,534 - myproject -INFO - im in dropdown
+2022-10-18 12:56:37,252 - myproject -INFO - im in texbox
+2022-10-18 12:56:37,653 - myproject -INFO - im in button
+2022-10-18 12:56:37,752 - myproject -INFO - im in button
+2022-10-18 12:56:37,832 - myproject -INFO - im in button
+2022-10-18 12:56:37,948 - myproject -INFO - im in button
+2022-10-18 12:56:38,031 - myproject -INFO - im in button
+2022-10-18 12:56:38,150 - myproject -INFO - im in button
+2022-10-18 12:56:38,207 - myproject -INFO - im in button
+2022-10-18 12:56:38,288 - myproject -INFO - im in texbox
+2022-10-18 12:56:38,346 - myproject -INFO - im in texbox
+2022-10-18 12:56:38,487 - myproject -INFO - im in button
+2022-10-18 12:56:38,615 - myproject -INFO - im in button
+2022-10-18 12:56:38,682 - myproject -INFO - Execution of sheet number 2
+2022-10-18 12:56:38,682 - myproject -INFO - in func library
+2022-10-18 12:56:38,690 - myproject -INFO - Opened Browser
+2022-10-18 12:56:38,837 - myproject -INFO - im in button
+2022-10-18 12:56:39,972 - myproject -INFO - im in dropdown
+2022-10-18 12:56:40,165 - myproject -INFO - im in dropdown
+2022-10-18 12:56:41,631 - myproject -INFO - im in dropdown
+2022-10-18 12:56:41,852 - myproject -INFO - im in button
+2022-10-18 12:56:42,702 - myproject -INFO - im in texbox
+2022-10-18 12:56:43,128 - myproject -INFO - im in texbox
+2022-10-18 12:56:43,255 - myproject -INFO - im in texbox
+2022-10-18 12:56:43,332 - myproject -INFO - im in texbox
+2022-10-18 12:56:43,485 - myproject -INFO - im in button
+2022-10-18 12:56:43,613 - myproject -INFO - im in button
+2022-10-18 12:56:44,906 - myproject -INFO - Execution of sheet number 3
+2022-10-18 12:56:44,906 - myproject -INFO - in func library
+2022-10-18 12:56:44,906 - myproject -INFO - Opened Browser
+2022-10-18 12:56:45,069 - myproject -INFO - im in button
+2022-10-18 12:56:45,691 - myproject -INFO - im in button
+2022-10-18 12:56:45,839 - myproject -INFO - im in button
+2022-10-18 13:06:40,258 - myproject -INFO - Reading Excel Sheet
+2022-10-18 13:06:42,371 - myproject -INFO - Execution of sheet number 1
+2022-10-18 13:06:42,380 - myproject -INFO - in func library
+2022-10-18 13:06:54,869 - myproject -INFO - Opened Browser
+2022-10-18 13:06:55,054 - myproject -INFO - im in button
+2022-10-18 13:06:56,621 - myproject -INFO - im in dropdown
+2022-10-18 13:06:58,269 - myproject -INFO - im in dropdown
+2022-10-18 13:06:58,566 - myproject -INFO - im in dropdown
+2022-10-18 13:06:59,115 - myproject -INFO - im in dropdown
+2022-10-18 13:07:00,757 - myproject -INFO - im in dropdown
+2022-10-18 13:07:01,527 - myproject -INFO - im in texbox
+2022-10-18 13:07:01,975 - myproject -INFO - im in button
+2022-10-18 13:07:02,081 - myproject -INFO - im in button
+2022-10-18 13:07:02,156 - myproject -INFO - im in button
+2022-10-18 13:07:02,319 - myproject -INFO - im in button
+2022-10-18 13:07:02,440 - myproject -INFO - im in button
+2022-10-18 13:07:02,560 - myproject -INFO - im in button
+2022-10-18 13:07:02,651 - myproject -INFO - im in button
+2022-10-18 13:07:02,803 - myproject -INFO - im in texbox
+2022-10-18 13:07:02,895 - myproject -INFO - im in texbox
+2022-10-18 13:07:03,045 - myproject -INFO - im in button
+2022-10-18 13:07:03,216 - myproject -INFO - im in button
+2022-10-18 13:07:03,307 - myproject -INFO - Execution of sheet number 2
+2022-10-18 13:07:03,314 - myproject -INFO - in func library
+2022-10-18 13:07:03,315 - myproject -INFO - Opened Browser
+2022-10-18 13:07:03,461 - myproject -INFO - im in button
+2022-10-18 13:07:04,681 - myproject -INFO - im in dropdown
+2022-10-18 13:07:06,404 - myproject -INFO - im in dropdown
+2022-10-18 13:07:06,942 - myproject -INFO - im in dropdown
+2022-10-18 13:07:07,161 - myproject -INFO - im in button
+2022-10-18 13:07:07,904 - myproject -INFO - im in texbox
+2022-10-18 13:07:08,220 - myproject -INFO - im in texbox
+2022-10-18 13:07:08,316 - myproject -INFO - im in texbox
+2022-10-18 13:07:08,390 - myproject -INFO - im in texbox
+2022-10-18 13:07:08,562 - myproject -INFO - im in button
+2022-10-18 13:07:08,692 - myproject -INFO - im in button
+2022-10-18 13:07:10,031 - myproject -INFO - Execution of sheet number 3
+2022-10-18 13:07:10,031 - myproject -INFO - in func library
+2022-10-18 13:07:10,033 - myproject -INFO - Opened Browser
+2022-10-18 13:07:10,188 - myproject -INFO - im in button
+2022-10-18 13:07:10,847 - myproject -INFO - im in button
+2022-10-18 13:07:11,034 - myproject -INFO - im in button
+2022-10-18 16:09:08,987 - myproject -INFO - Reading Excel Sheet
+2022-10-18 16:09:11,221 - myproject -INFO - Execution of sheet number 3
+2022-10-18 16:09:11,237 - myproject -INFO - in func library
+2022-10-18 16:09:11,237 - myproject -INFO - Opened Browser
+2022-10-18 16:09:52,963 - myproject -INFO - Reading Excel Sheet
+2022-10-18 16:09:54,998 - myproject -INFO - Execution of sheet number 3
+2022-10-18 16:09:55,008 - myproject -INFO - in func library
+2022-10-18 16:10:14,364 - myproject -INFO - Opened Browser
+2022-10-18 16:10:35,726 - myproject -INFO - im in dropdown
+2022-10-18 16:10:36,428 - myproject -INFO - im in dropdown
+2022-10-18 16:10:36,859 - myproject -INFO - Execution of sheet number 4
+2022-10-18 16:10:36,861 - myproject -INFO - in func library
+2022-10-18 16:10:58,072 - myproject -INFO - Reading Excel Sheet
+2022-10-18 16:11:00,175 - myproject -INFO - Execution of sheet number 3
+2022-10-18 16:11:00,184 - myproject -INFO - in func library
+2022-10-18 16:11:08,623 - myproject -INFO - Opened Browser
+2022-10-18 16:11:30,548 - myproject -INFO - im in dropdown
+2022-10-18 16:11:30,983 - myproject -INFO - im in dropdown
+2022-10-18 16:11:31,632 - myproject -INFO - Execution of sheet number 4
+2022-10-18 16:11:31,634 - myproject -INFO - in func library
+2022-10-18 16:32:46,384 - myproject -INFO - Reading Excel Sheet
+2022-10-18 16:32:48,691 - myproject -INFO - Execution of sheet number 3
+2022-10-18 16:32:48,729 - myproject -INFO - in func library
+2022-10-18 16:32:56,583 - myproject -INFO - Opened Browser
+2022-10-18 16:34:38,665 - myproject -INFO - Reading Excel Sheet
+2022-10-18 16:34:41,044 - myproject -INFO - Execution of sheet number 3
+2022-10-18 16:34:41,055 - myproject -INFO - in func library
+2022-10-18 16:34:49,163 - myproject -INFO - Opened Browser
+2022-10-19 14:35:13,982 - myproject -INFO - Reading Excel Sheet
+2022-10-19 14:35:16,654 - myproject -INFO - Execution of sheet number 3
+2022-10-19 14:35:16,666 - myproject -INFO - in func library
+2022-10-19 14:35:26,328 - myproject -INFO - Opened Browser
+2022-10-19 14:36:08,557 - myproject -INFO - im in dropdown
+2022-10-19 14:36:09,193 - myproject -INFO - im in dropdown
+2022-10-19 14:36:09,627 - myproject -INFO - Execution of sheet number 4
+2022-10-19 14:36:09,628 - myproject -INFO - in func library
+2022-10-19 14:37:25,617 - myproject -INFO - Reading Excel Sheet
+2022-10-19 14:37:27,536 - myproject -INFO - Execution of sheet number 1
+2022-10-19 14:37:27,544 - myproject -INFO - in func library
+2022-10-19 14:37:36,758 - myproject -INFO - Opened Browser
+2022-10-19 14:37:40,106 - myproject -INFO - im in dropdown
+2022-10-19 14:37:40,324 - myproject -INFO - im in dropdown
+2022-10-19 14:37:43,034 - myproject -INFO - im in dropdown
+2022-10-19 14:37:43,684 - myproject -INFO - im in dropdown
+2022-10-19 14:37:45,250 - myproject -INFO - im in dropdown
+2022-10-19 14:37:46,157 - myproject -INFO - im in texbox
+2022-10-19 14:37:47,651 - myproject -INFO - im in texbox
+2022-10-19 14:37:47,741 - myproject -INFO - im in texbox
+2022-10-19 14:37:48,077 - myproject -INFO - Execution of sheet number 2
+2022-10-19 14:37:48,077 - myproject -INFO - in func library
+2022-10-19 14:37:48,077 - myproject -INFO - Opened Browser
+2022-10-19 14:37:49,621 - myproject -INFO - im in dropdown
+2022-10-19 14:37:51,578 - myproject -INFO - im in dropdown
+2022-10-19 14:37:52,175 - myproject -INFO - im in dropdown
+2022-10-19 14:37:53,521 - myproject -INFO - im in texbox
+2022-10-19 14:37:54,023 - myproject -INFO - im in texbox
+2022-10-19 14:37:54,137 - myproject -INFO - im in texbox
+2022-10-19 14:37:54,241 - myproject -INFO - im in texbox
+2022-10-19 14:37:56,386 - myproject -INFO - Execution of sheet number 3
+2022-10-19 14:37:56,391 - myproject -INFO - in func library
+2022-10-19 14:37:56,391 - myproject -INFO - Opened Browser
+2022-10-19 14:38:37,669 - myproject -INFO - im in dropdown
+2022-10-19 14:38:38,115 - myproject -INFO - im in dropdown
+2022-10-19 14:38:38,786 - myproject -INFO - Execution of sheet number 4
+2022-10-19 14:38:38,788 - myproject -INFO - in func library
+2022-10-19 14:38:38,788 - myproject -INFO - Opened Browser
+2022-10-19 14:39:00,559 - myproject -INFO - im in dropdown
+2022-10-19 14:39:00,917 - myproject -INFO - im in dropdown
+2022-10-19 14:39:02,012 - myproject -INFO - Browser quitted
+2022-10-19 14:43:25,100 - myproject -INFO - Reading Excel Sheet
+2022-10-19 14:43:28,221 - myproject -INFO - Execution of sheet number 1
+2022-10-19 14:43:28,237 - myproject -INFO - in func library
+2022-10-19 14:43:36,388 - myproject -INFO - Opened Browser
+2022-10-19 14:43:37,848 - myproject -INFO - im in dropdown
+2022-10-19 14:43:39,852 - myproject -INFO - im in dropdown
+2022-10-19 14:43:40,169 - myproject -INFO - im in dropdown
+2022-10-19 14:43:40,807 - myproject -INFO - im in dropdown
+2022-10-19 14:43:42,338 - myproject -INFO - im in dropdown
+2022-10-19 14:43:43,172 - myproject -INFO - im in texbox
+2022-10-19 14:43:44,301 - myproject -INFO - im in texbox
+2022-10-19 14:43:44,366 - myproject -INFO - im in texbox
+2022-10-19 14:43:44,648 - myproject -INFO - Execution of sheet number 2
+2022-10-19 14:43:44,648 - myproject -INFO - in func library
+2022-10-19 14:43:44,654 - myproject -INFO - Opened Browser
+2022-10-19 14:43:45,971 - myproject -INFO - im in dropdown
+2022-10-19 14:43:47,223 - myproject -INFO - im in dropdown
+2022-10-19 14:43:47,853 - myproject -INFO - im in dropdown
+2022-10-19 14:43:48,920 - myproject -INFO - im in texbox
+2022-10-19 14:43:49,350 - myproject -INFO - im in texbox
+2022-10-19 14:43:49,489 - myproject -INFO - im in texbox
+2022-10-19 14:43:49,587 - myproject -INFO - im in texbox
+2022-10-19 14:43:51,257 - myproject -INFO - Execution of sheet number 3
+2022-10-19 14:43:51,257 - myproject -INFO - in func library
+2022-10-19 14:43:51,257 - myproject -INFO - Opened Browser
+2022-10-19 14:47:57,779 - myproject -INFO - Reading Excel Sheet
+2022-10-19 14:48:00,164 - myproject -INFO - Execution of sheet number 1
+2022-10-19 14:48:00,173 - myproject -INFO - in func library
+2022-10-19 14:48:08,211 - myproject -INFO - Opened Browser
+2022-10-19 14:48:11,557 - myproject -INFO - im in dropdown
+2022-10-19 14:48:13,327 - myproject -INFO - im in dropdown
+2022-10-19 14:48:13,661 - myproject -INFO - im in dropdown
+2022-10-19 14:48:14,299 - myproject -INFO - im in dropdown
+2022-10-19 14:48:15,901 - myproject -INFO - im in dropdown
+2022-10-19 14:48:16,731 - myproject -INFO - im in texbox
+2022-10-19 14:48:18,121 - myproject -INFO - im in texbox
+2022-10-19 14:48:18,194 - myproject -INFO - im in texbox
+2022-10-19 14:48:18,480 - myproject -INFO - Execution of sheet number 2
+2022-10-19 14:48:18,480 - myproject -INFO - in func library
+2022-10-19 14:48:18,480 - myproject -INFO - Opened Browser
+2022-10-19 14:48:19,859 - myproject -INFO - im in dropdown
+2022-10-19 14:48:21,656 - myproject -INFO - im in dropdown
+2022-10-19 14:48:22,222 - myproject -INFO - im in dropdown
+2022-10-19 14:48:23,127 - myproject -INFO - im in texbox
+2022-10-19 14:48:23,582 - myproject -INFO - im in texbox
+2022-10-19 14:48:23,719 - myproject -INFO - im in texbox
+2022-10-19 14:48:23,817 - myproject -INFO - im in texbox
+2022-10-19 14:48:25,511 - myproject -INFO - Execution of sheet number 3
+2022-10-19 14:48:25,516 - myproject -INFO - in func library
+2022-10-19 14:48:25,516 - myproject -INFO - Opened Browser
+2022-10-19 14:50:51,504 - myproject -INFO - Reading Excel Sheet
+2022-10-19 14:50:53,848 - myproject -INFO - Execution of sheet number 1
+2022-10-19 14:50:53,855 - myproject -INFO - in func library
+2022-10-19 14:51:03,782 - myproject -INFO - Opened Browser
+2022-10-19 14:51:05,867 - myproject -INFO - im in dropdown
+2022-10-19 14:51:07,633 - myproject -INFO - im in dropdown
+2022-10-19 14:51:07,957 - myproject -INFO - im in dropdown
+2022-10-19 14:51:08,545 - myproject -INFO - im in dropdown
+2022-10-19 14:51:10,154 - myproject -INFO - im in dropdown
+2022-10-19 14:51:10,996 - myproject -INFO - im in texbox
+2022-10-19 14:51:12,514 - myproject -INFO - im in texbox
+2022-10-19 14:51:12,598 - myproject -INFO - im in texbox
+2022-10-19 14:51:12,962 - myproject -INFO - Execution of sheet number 2
+2022-10-19 14:51:12,962 - myproject -INFO - in func library
+2022-10-19 14:51:12,962 - myproject -INFO - Opened Browser
+2022-10-19 14:51:14,539 - myproject -INFO - im in dropdown
+2022-10-19 14:51:15,876 - myproject -INFO - im in dropdown
+2022-10-19 14:51:16,502 - myproject -INFO - im in dropdown
+2022-10-19 14:51:17,785 - myproject -INFO - im in texbox
+2022-10-19 14:51:18,297 - myproject -INFO - im in texbox
+2022-10-19 14:51:18,443 - myproject -INFO - im in texbox
+2022-10-19 14:51:18,549 - myproject -INFO - im in texbox
+2022-10-19 14:51:20,260 - myproject -INFO - Execution of sheet number 3
+2022-10-19 14:51:20,260 - myproject -INFO - in func library
+2022-10-19 14:51:20,260 - myproject -INFO - Opened Browser
+2022-10-19 14:55:02,847 - myproject -INFO - Reading Excel Sheet
+2022-10-19 14:55:08,643 - myproject -INFO - Execution of sheet number 1
+2022-10-19 14:55:08,659 - myproject -INFO - in func library
+2022-10-19 14:55:20,824 - myproject -INFO - Opened Browser
+2022-10-19 14:56:06,105 - myproject -INFO - im in dropdown
+2022-10-19 14:56:25,444 - myproject -INFO - im in dropdown
+2022-10-19 14:56:32,877 - myproject -INFO - im in dropdown
+2022-10-19 14:56:35,029 - myproject -INFO - im in dropdown
+2022-10-19 15:00:31,706 - myproject -INFO - Reading Excel Sheet
+2022-10-19 15:00:34,520 - myproject -INFO - Execution of sheet number 1
+2022-10-19 15:00:34,529 - myproject -INFO - in func library
+2022-10-19 15:00:47,552 - myproject -INFO - Opened Browser
+2022-10-19 15:01:31,592 - myproject -INFO - im in dropdown
+2022-10-19 15:01:33,230 - myproject -INFO - im in dropdown
+2022-10-19 15:01:34,592 - myproject -INFO - im in dropdown
+2022-10-19 15:01:36,070 - myproject -INFO - im in dropdown
+2022-10-19 15:01:43,500 - myproject -INFO - im in dropdown
+2022-10-19 15:01:45,336 - myproject -INFO - im in texbox
+2022-10-19 15:04:09,994 - myproject -INFO - Reading Excel Sheet
+2022-10-19 15:04:12,299 - myproject -INFO - Execution of sheet number 3
+2022-10-19 15:04:12,333 - myproject -INFO - in func library
+2022-10-19 15:04:21,185 - myproject -INFO - Opened Browser
+2022-10-19 15:04:33,534 - myproject -INFO - im in dropdown
+2022-10-19 15:05:02,970 - myproject -INFO - Reading Excel Sheet
+2022-10-19 15:05:06,039 - myproject -INFO - Execution of sheet number 3
+2022-10-19 15:05:06,049 - myproject -INFO - in func library
+2022-10-19 15:05:14,612 - myproject -INFO - Opened Browser
+2022-10-19 15:08:34,666 - myproject -INFO - Reading Excel Sheet
+2022-10-19 15:08:36,967 - myproject -INFO - Execution of sheet number 3
+2022-10-19 15:08:36,978 - myproject -INFO - in func library
+2022-10-19 15:08:52,832 - myproject -INFO - Opened Browser
+2022-10-19 15:09:53,816 - myproject -INFO - Reading Excel Sheet
+2022-10-19 15:09:56,219 - myproject -INFO - Execution of sheet number 3
+2022-10-19 15:09:56,229 - myproject -INFO - in func library
+2022-10-19 15:10:08,219 - myproject -INFO - Opened Browser
+2022-10-19 15:12:12,038 - myproject -INFO - Reading Excel Sheet
+2022-10-19 15:12:14,680 - myproject -INFO - Execution of sheet number 3
+2022-10-19 15:12:14,687 - myproject -INFO - in func library
+2022-10-19 15:12:24,362 - myproject -INFO - Opened Browser
+2022-10-19 15:17:15,783 - myproject -INFO - Reading Excel Sheet
+2022-10-19 15:17:17,823 - myproject -INFO - Execution of sheet number 3
+2022-10-19 15:17:17,831 - myproject -INFO - in func library
+2022-10-19 15:17:27,522 - myproject -INFO - Opened Browser
+2022-10-19 15:18:39,890 - myproject -INFO - Reading Excel Sheet
+2022-10-19 15:18:42,281 - myproject -INFO - Execution of sheet number 3
+2022-10-19 15:18:42,291 - myproject -INFO - in func library
+2022-10-19 15:18:52,278 - myproject -INFO - Opened Browser
+2022-10-19 15:19:13,665 - myproject -INFO - im in dropdown
+2022-10-19 15:19:14,176 - myproject -INFO - im in dropdown
+2022-10-19 15:19:14,971 - myproject -INFO - Execution of sheet number 4
+2022-10-19 15:19:14,974 - myproject -INFO - in func library
+2022-10-19 15:23:19,264 - myproject -INFO - Reading Excel Sheet
+2022-10-19 15:23:21,554 - myproject -INFO - Execution of sheet number 1
+2022-10-19 15:23:21,570 - myproject -INFO - in func library
+2022-10-19 15:23:32,284 - myproject -INFO - Opened Browser
+2022-10-19 15:23:35,720 - myproject -INFO - im in dropdown
+2022-10-19 15:23:37,430 - myproject -INFO - im in dropdown
+2022-10-19 15:23:37,732 - myproject -INFO - im in dropdown
+2022-10-19 15:23:38,314 - myproject -INFO - im in dropdown
+2022-10-19 15:23:39,917 - myproject -INFO - im in dropdown
+2022-10-19 15:23:40,781 - myproject -INFO - im in texbox
+2022-10-19 15:23:42,101 - myproject -INFO - im in texbox
+2022-10-19 15:23:42,188 - myproject -INFO - im in texbox
+2022-10-19 15:23:42,477 - myproject -INFO - Execution of sheet number 2
+2022-10-19 15:23:42,477 - myproject -INFO - in func library
+2022-10-19 15:23:42,477 - myproject -INFO - Opened Browser
+2022-10-19 15:23:44,690 - myproject -INFO - im in dropdown
+2022-10-19 15:23:46,568 - myproject -INFO - im in dropdown
+2022-10-19 15:23:47,187 - myproject -INFO - im in dropdown
+2022-10-19 15:23:48,485 - myproject -INFO - im in texbox
+2022-10-19 15:23:48,918 - myproject -INFO - im in texbox
+2022-10-19 15:23:49,047 - myproject -INFO - im in texbox
+2022-10-19 15:23:49,146 - myproject -INFO - im in texbox
+2022-10-19 15:23:50,875 - myproject -INFO - Execution of sheet number 3
+2022-10-19 15:23:50,875 - myproject -INFO - in func library
+2022-10-19 15:23:50,875 - myproject -INFO - Opened Browser
+2022-10-19 15:24:12,567 - myproject -INFO - im in dropdown
+2022-10-19 15:24:12,893 - myproject -INFO - im in dropdown
+2022-10-19 15:24:13,459 - myproject -INFO - Execution of sheet number 4
+2022-10-19 15:24:13,459 - myproject -INFO - in func library
+2022-10-19 15:24:13,461 - myproject -INFO - Opened Browser
+2022-10-19 15:24:24,687 - myproject -INFO - im in dropdown
+2022-10-19 15:24:25,105 - myproject -INFO - im in dropdown
+2022-10-19 15:24:26,561 - myproject -INFO - Browser quitted
+2022-10-19 15:25:22,033 - myproject -INFO - Reading Excel Sheet
+2022-10-19 15:25:24,493 - myproject -INFO - Execution of sheet number 1
+2022-10-19 15:25:24,501 - myproject -INFO - in func library
+2022-10-19 15:25:38,261 - myproject -INFO - Opened Browser
+2022-10-19 15:25:39,672 - myproject -INFO - im in dropdown
+2022-10-19 15:25:41,416 - myproject -INFO - im in dropdown
+2022-10-19 15:25:41,704 - myproject -INFO - im in dropdown
+2022-10-19 15:25:42,912 - myproject -INFO - im in dropdown
+2022-10-19 15:25:44,408 - myproject -INFO - im in dropdown
+2022-10-19 15:25:45,189 - myproject -INFO - im in texbox
+2022-10-19 15:25:46,618 - myproject -INFO - im in texbox
+2022-10-19 15:25:46,693 - myproject -INFO - im in texbox
+2022-10-19 15:25:47,021 - myproject -INFO - Execution of sheet number 2
+2022-10-19 15:25:47,025 - myproject -INFO - in func library
+2022-10-19 15:25:47,025 - myproject -INFO - Opened Browser
+2022-10-19 15:25:48,848 - myproject -INFO - im in dropdown
+2022-10-19 15:25:50,389 - myproject -INFO - im in dropdown
+2022-10-19 15:25:50,997 - myproject -INFO - im in dropdown
+2022-10-19 15:25:52,278 - myproject -INFO - im in texbox
+2022-10-19 15:25:52,673 - myproject -INFO - im in texbox
+2022-10-19 15:25:52,814 - myproject -INFO - im in texbox
+2022-10-19 15:25:52,919 - myproject -INFO - im in texbox
+2022-10-19 15:25:54,782 - myproject -INFO - Execution of sheet number 3
+2022-10-19 15:25:54,782 - myproject -INFO - in func library
+2022-10-19 15:25:54,782 - myproject -INFO - Opened Browser
+2022-10-19 15:26:16,226 - myproject -INFO - im in dropdown
+2022-10-19 15:26:16,642 - myproject -INFO - im in dropdown
+2022-10-19 15:26:17,191 - myproject -INFO - Execution of sheet number 4
+2022-10-19 15:26:17,191 - myproject -INFO - in func library
+2022-10-19 15:26:17,191 - myproject -INFO - Opened Browser
+2022-10-19 15:26:28,761 - myproject -INFO - im in dropdown
+2022-10-19 15:26:29,219 - myproject -INFO - im in dropdown
+2022-10-19 15:26:30,472 - myproject -INFO - Browser quitted
+2022-10-19 16:38:51,137 - myproject -INFO - Reading Excel Sheet
+2022-10-19 16:38:53,830 - myproject -INFO - Execution of sheet number 1
+2022-10-19 16:38:53,840 - myproject -INFO - in func library
+2022-10-19 16:38:55,917 - myproject -INFO - Opened Browser
+2022-10-19 16:40:54,291 - myproject -INFO - Reading Excel Sheet
+2022-10-19 16:40:56,679 - myproject -INFO - Execution of sheet number 1
+2022-10-19 16:40:56,688 - myproject -INFO - in func library
+2022-10-19 16:40:58,737 - myproject -INFO - Opened Browser
+2022-10-19 16:41:07,173 - myproject -INFO - im in dropdown
+2022-10-19 16:41:10,299 - myproject -INFO - im in dropdown
+2022-10-19 16:41:10,575 - myproject -INFO - im in dropdown
+2022-10-19 16:41:11,198 - myproject -INFO - im in dropdown
+2022-10-19 16:41:12,792 - myproject -INFO - im in dropdown
+2022-10-19 16:42:30,235 - myproject -INFO - Reading Excel Sheet
+2022-10-19 16:42:32,615 - myproject -INFO - Execution of sheet number 1
+2022-10-19 16:42:32,623 - myproject -INFO - in func library
+2022-10-19 16:42:34,680 - myproject -INFO - Opened Browser
+2022-10-19 16:44:54,449 - myproject -INFO - Reading Excel Sheet
+2022-10-19 16:44:56,653 - myproject -INFO - Execution of sheet number 1
+2022-10-19 16:44:56,659 - myproject -INFO - in func library
+2022-10-19 16:44:58,697 - myproject -INFO - Opened Browser
+2022-10-19 16:45:09,920 - myproject -INFO - im in dropdown
+2022-10-19 16:45:20,295 - myproject -INFO - im in dropdown
+2022-10-19 16:45:20,602 - myproject -INFO - im in dropdown
+2022-10-19 16:45:21,225 - myproject -INFO - im in dropdown
+2022-10-19 16:45:22,821 - myproject -INFO - im in dropdown
+2022-10-19 16:45:23,700 - myproject -INFO - im in texbox
+2022-10-19 16:45:24,919 - myproject -INFO - im in texbox
+2022-10-19 16:45:24,999 - myproject -INFO - im in texbox
+2022-10-19 16:45:25,367 - myproject -INFO - Execution of sheet number 2
+2022-10-19 16:45:27,893 - myproject -INFO - im in dropdown
+2022-10-19 16:45:29,503 - myproject -INFO - im in dropdown
+2022-10-19 16:45:30,101 - myproject -INFO - im in dropdown
+2022-10-19 16:45:31,245 - myproject -INFO - im in texbox
+2022-10-19 16:45:31,613 - myproject -INFO - im in texbox
+2022-10-19 16:45:31,735 - myproject -INFO - im in texbox
+2022-10-19 16:45:31,833 - myproject -INFO - im in texbox
+2022-10-19 16:45:33,520 - myproject -INFO - Execution of sheet number 3
+2022-10-19 16:45:45,167 - myproject -INFO - No pending requests
+2022-10-19 16:45:55,301 - myproject -INFO - No pending requests
+2022-10-19 16:45:55,301 - myproject -INFO - im in dropdown
+2022-10-19 16:45:55,698 - myproject -INFO - im in dropdown
+2022-10-19 16:45:56,084 - myproject -INFO - Execution of sheet number 4
+2022-10-19 16:46:08,155 - myproject -INFO - No pending requests
+2022-10-19 16:46:08,155 - myproject -INFO - im in dropdown
+2022-10-19 16:46:08,494 - myproject -INFO - im in dropdown
+2022-10-19 16:46:09,991 - myproject -INFO - Browser quitted
+2022-10-19 17:08:18,933 - myproject -INFO - Reading Excel Sheet
+2022-10-19 17:08:20,541 - myproject -INFO - Execution of sheet number 1
+2022-10-19 17:08:20,546 - myproject -INFO - in func library
+2022-10-19 17:08:21,802 - myproject -INFO - Opened Browser
+2022-10-19 17:08:32,171 - myproject -INFO - im in dropdown
+2022-10-19 17:08:32,355 - myproject -INFO - im in dropdown
+2022-10-19 17:08:34,647 - myproject -INFO - im in dropdown
+2022-10-19 17:08:35,222 - myproject -INFO - im in dropdown
+2022-10-19 17:08:36,632 - myproject -INFO - im in dropdown
+2022-10-19 17:08:37,412 - myproject -INFO - im in texbox
+2022-10-19 17:08:38,395 - myproject -INFO - im in texbox
+2022-10-19 17:08:38,428 - myproject -INFO - im in texbox
+2022-10-19 17:08:38,616 - myproject -INFO - Execution of sheet number 2
+2022-10-19 17:08:40,388 - myproject -INFO - im in dropdown
+2022-10-19 17:08:40,586 - myproject -INFO - im in dropdown
+2022-10-19 17:08:42,148 - myproject -INFO - im in dropdown
+2022-10-19 17:08:42,988 - myproject -INFO - im in texbox
+2022-10-19 17:08:43,271 - myproject -INFO - im in texbox
+2022-10-19 17:08:43,379 - myproject -INFO - im in texbox
+2022-10-19 17:08:43,447 - myproject -INFO - im in texbox
+2022-10-19 17:08:44,977 - myproject -INFO - Execution of sheet number 3
+2022-10-19 17:08:46,519 - myproject -INFO - im in dropdown
+2022-10-19 17:48:52,302 - myproject -INFO - Reading Excel Sheet
+2022-10-19 17:48:53,644 - myproject -INFO - Execution of sheet number 1
+2022-10-19 17:48:53,649 - myproject -INFO - in func library
+2022-10-19 17:48:54,925 - myproject -INFO - Opened Browser
+2022-10-19 17:49:05,709 - myproject -INFO - im in dropdown
+2022-10-19 17:49:05,818 - myproject -INFO - im in dropdown
+2022-10-19 17:49:05,934 - myproject -INFO - im in dropdown
+2022-10-19 17:49:08,399 - myproject -INFO - im in dropdown
+2022-10-19 17:49:09,521 - myproject -INFO - im in dropdown
+2022-10-19 17:49:10,151 - myproject -INFO - im in texbox
+2022-10-19 17:49:10,745 - myproject -INFO - im in texbox
+2022-10-19 17:49:10,777 - myproject -INFO - im in texbox
+2022-10-19 17:49:10,933 - myproject -INFO - Execution of sheet number 2
+2022-10-19 17:49:11,519 - myproject -INFO - im in dropdown
+2022-10-19 17:50:44,488 - myproject -INFO - Reading Excel Sheet
+2022-10-19 17:50:45,844 - myproject -INFO - Execution of sheet number 1
+2022-10-19 17:50:45,849 - myproject -INFO - in func library
+2022-10-19 17:50:47,168 - myproject -INFO - Opened Browser
+2022-10-19 17:50:55,056 - myproject -INFO - im in dropdown
+2022-10-19 17:50:55,158 - myproject -INFO - im in dropdown
+2022-10-19 17:50:55,266 - myproject -INFO - im in dropdown
+2022-10-19 17:50:57,227 - myproject -INFO - im in dropdown
+2022-10-19 17:50:58,672 - myproject -INFO - im in dropdown
+2022-10-19 17:50:59,322 - myproject -INFO - im in texbox
+2022-10-20 11:12:49,062 - myproject -INFO - Reading Excel Sheet
+2022-10-20 11:12:52,189 - myproject -INFO - Execution of sheet number 1
+2022-10-20 11:12:52,200 - myproject -INFO - in func library
+2022-10-20 11:12:53,748 - myproject -INFO - Opened Browser
+2022-10-20 11:13:04,640 - myproject -INFO - im in dropdown
+2022-10-20 11:13:04,870 - myproject -INFO - im in dropdown
+2022-10-20 11:13:06,764 - myproject -INFO - im in dropdown
+2022-10-20 11:13:07,348 - myproject -INFO - im in dropdown
+2022-10-20 11:13:09,408 - myproject -INFO - im in dropdown
+2022-10-20 11:13:10,220 - myproject -INFO - im in texbox
+2022-10-20 11:13:11,878 - myproject -INFO - im in texbox
+2022-10-20 11:13:11,980 - myproject -INFO - im in texbox
+2022-10-20 11:13:12,414 - myproject -INFO - Execution of sheet number 2
+2022-10-20 11:13:14,982 - myproject -INFO - im in dropdown
+2022-10-20 11:13:16,971 - myproject -INFO - im in dropdown
+2022-10-20 11:13:17,672 - myproject -INFO - im in dropdown
+2022-10-20 11:13:19,021 - myproject -INFO - im in texbox
+2022-10-20 11:13:19,549 - myproject -INFO - im in texbox
+2022-10-20 11:13:19,675 - myproject -INFO - im in texbox
+2022-10-20 11:13:19,752 - myproject -INFO - im in texbox
+2022-10-20 11:13:21,957 - myproject -INFO - Execution of sheet number 3
+2022-10-20 11:13:24,512 - myproject -INFO - im in dropdown
+2022-10-20 11:13:25,767 - myproject -INFO - im in dropdown
+2022-10-20 11:13:26,454 - myproject -INFO - Execution of sheet number 4
+2022-10-20 11:13:38,159 - myproject -INFO - No pending requests
+2022-10-20 11:13:38,160 - myproject -INFO - im in dropdown
+2022-10-20 11:13:38,575 - myproject -INFO - im in dropdown
+2022-10-20 11:13:39,505 - myproject -INFO - Browser quitted
+2022-10-20 11:21:25,582 - myproject -INFO - Reading Excel Sheet
+2022-10-20 11:21:28,288 - myproject -INFO - Execution of sheet number 1
+2022-10-20 11:21:28,289 - myproject -INFO - Execution of sheet number 2
+2022-10-20 11:21:28,289 - myproject -INFO - Execution of sheet number 3
+2022-10-20 11:21:28,289 - myproject -INFO - Execution of sheet number 4
+2022-10-20 11:21:28,634 - myproject -INFO - Browser quitted
+2022-10-20 11:25:15,824 - myproject -INFO - Reading Excel Sheet
+2022-10-20 11:27:55,904 - myproject -INFO - Reading Excel Sheet
+2022-10-20 11:27:57,532 - myproject -INFO - Execution of sheet number 1
+2022-10-20 11:27:57,532 - myproject -INFO - Execution of sheet number 2
+2022-10-20 11:27:57,533 - myproject -INFO - Execution of sheet number 3
+2022-10-20 11:27:57,533 - myproject -INFO - Execution of sheet number 4
+2022-10-20 11:27:57,814 - myproject -INFO - Browser quitted
+2022-10-20 11:31:28,513 - myproject -INFO - Reading Excel Sheet
+2022-10-20 11:31:30,270 - myproject -INFO - Execution of sheet number 1
+2022-10-20 11:31:30,270 - myproject -INFO - Execution of sheet number 2
+2022-10-20 11:31:30,270 - myproject -INFO - Execution of sheet number 3
+2022-10-20 11:31:30,270 - myproject -INFO - Execution of sheet number 4
+2022-10-20 11:31:40,555 - myproject -INFO - Browser quitted
+2022-10-20 11:37:52,796 - myproject -INFO - Reading Excel Sheet
+2022-10-20 11:37:54,690 - myproject -INFO - Execution of sheet number 1
+2022-10-20 11:37:54,703 - myproject -INFO - in func library
+2022-10-20 11:37:56,773 - myproject -INFO - Opened Browser
+2022-10-20 11:38:08,434 - myproject -INFO - im in dropdown
+2022-10-20 11:38:08,584 - myproject -INFO - im in dropdown
+2022-10-20 11:38:08,718 - myproject -INFO - im in dropdown
+2022-10-20 11:38:10,748 - myproject -INFO - im in dropdown
+2022-10-20 11:38:12,000 - myproject -INFO - im in dropdown
+2022-10-20 11:38:12,737 - myproject -INFO - im in texbox
+2022-10-20 11:38:13,525 - myproject -INFO - im in texbox
+2022-10-20 11:38:13,564 - myproject -INFO - im in texbox
+2022-10-20 11:38:13,765 - myproject -INFO - Execution of sheet number 2
+2022-10-20 11:38:15,577 - myproject -INFO - im in dropdown
+2022-10-20 11:38:15,743 - myproject -INFO - im in dropdown
+2022-10-20 11:38:17,791 - myproject -INFO - im in dropdown
+2022-10-20 11:38:18,454 - myproject -INFO - im in texbox
+2022-10-20 11:38:18,669 - myproject -INFO - im in texbox
+2022-10-20 11:38:18,733 - myproject -INFO - im in texbox
+2022-10-20 11:38:18,789 - myproject -INFO - im in texbox
+2022-10-20 11:38:20,757 - myproject -INFO - Execution of sheet number 3
+2022-10-20 11:38:22,273 - myproject -INFO - im in dropdown
+2022-10-20 11:38:23,090 - myproject -INFO - im in dropdown
+2022-10-20 11:38:23,301 - myproject -INFO - Execution of sheet number 4
+2022-10-20 11:38:34,226 - myproject -INFO - No pending requests
+2022-10-20 11:38:34,226 - myproject -INFO - im in dropdown
+2022-10-20 11:38:34,411 - myproject -INFO - im in dropdown
+2022-10-20 11:38:34,841 - myproject -INFO - Browser quitted
+2022-10-20 12:03:29,342 - myproject -INFO - Reading Excel Sheet
+2022-10-20 12:03:30,927 - myproject -INFO - Execution of sheet number 1
+2022-10-20 12:03:30,934 - myproject -INFO - in func library
+2022-10-20 12:03:32,973 - myproject -INFO - Opened Browser
+2022-10-20 12:03:41,748 - myproject -INFO - im in dropdown
+2022-10-20 12:03:41,851 - myproject -INFO - im in dropdown
+2022-10-20 12:03:44,095 - myproject -INFO - im in dropdown
+2022-10-20 12:03:44,511 - myproject -INFO - im in dropdown
+2022-10-20 12:03:45,636 - myproject -INFO - im in dropdown
+2022-10-20 12:03:46,287 - myproject -INFO - im in texbox
+2022-10-20 12:03:46,889 - myproject -INFO - im in texbox
+2022-10-20 12:03:46,917 - myproject -INFO - im in texbox
+2022-10-20 12:03:47,080 - myproject -INFO - Execution of sheet number 2
+2022-10-20 12:03:48,828 - myproject -INFO - im in dropdown
+2022-10-20 12:03:50,723 - myproject -INFO - im in dropdown
+2022-10-20 12:03:51,139 - myproject -INFO - im in dropdown
+2022-10-20 12:03:51,688 - myproject -INFO - im in texbox
+2022-10-20 12:03:51,875 - myproject -INFO - im in texbox
+2022-10-20 12:03:51,928 - myproject -INFO - im in texbox
+2022-10-20 12:03:51,964 - myproject -INFO - im in texbox
+2022-10-20 12:03:53,429 - myproject -INFO - Execution of sheet number 3
+2022-10-20 12:04:04,795 - myproject -INFO - No pending requests
+2022-10-20 12:04:14,867 - myproject -INFO - No pending requests
+2022-10-20 12:04:14,867 - myproject -INFO - im in dropdown
+2022-10-20 12:04:15,029 - myproject -INFO - im in dropdown
+2022-10-20 12:04:15,180 - myproject -INFO - Execution of sheet number 4
+2022-10-20 12:04:26,548 - myproject -INFO - No pending requests
+2022-10-20 12:04:26,548 - myproject -INFO - im in dropdown
+2022-10-20 12:04:26,705 - myproject -INFO - im in dropdown
+2022-10-20 12:04:27,020 - myproject -INFO - Browser quitted
+2022-10-20 12:10:11,736 - myproject -INFO - Reading Excel Sheet
+2022-10-20 12:10:13,313 - myproject -INFO - Execution of sheet number 1
+2022-10-20 12:10:13,321 - myproject -INFO - in func library
+2022-10-20 12:10:15,477 - myproject -INFO - Opened Browser
+2022-10-20 12:10:24,864 - myproject -INFO - im in dropdown
+2022-10-20 12:10:24,961 - myproject -INFO - im in dropdown
+2022-10-20 12:10:25,074 - myproject -INFO - im in dropdown
+2022-10-20 12:10:27,642 - myproject -INFO - im in dropdown
+2022-10-20 12:10:28,789 - myproject -INFO - im in dropdown
+2022-10-20 12:10:29,490 - myproject -INFO - im in texbox
+2022-10-20 12:10:30,091 - myproject -INFO - im in texbox
+2022-10-20 12:10:30,117 - myproject -INFO - im in texbox
+2022-10-20 12:10:30,272 - myproject -INFO - Execution of sheet number 2
+2022-10-20 12:10:31,540 - myproject -INFO - im in dropdown
+2022-10-20 12:10:31,650 - myproject -INFO - im in dropdown
+2022-10-20 12:10:33,702 - myproject -INFO - im in dropdown
+2022-10-20 12:10:34,231 - myproject -INFO - im in texbox
+2022-10-20 12:10:34,395 - myproject -INFO - im in texbox
+2022-10-20 12:10:34,443 - myproject -INFO - im in texbox
+2022-10-20 12:10:34,477 - myproject -INFO - im in texbox
+2022-10-20 12:10:35,977 - myproject -INFO - Execution of sheet number 3
+2022-10-20 12:10:46,905 - myproject -INFO - No pending requests
+2022-10-20 12:10:56,984 - myproject -INFO - No pending requests
+2022-10-20 12:10:56,984 - myproject -INFO - im in dropdown
+2022-10-20 12:10:57,172 - myproject -INFO - im in dropdown
+2022-10-20 12:10:57,308 - myproject -INFO - Execution of sheet number 4
+2022-10-20 12:11:08,190 - myproject -INFO - No pending requests
+2022-10-20 12:11:08,190 - myproject -INFO - im in dropdown
+2022-10-20 12:11:08,326 - myproject -INFO - im in dropdown
+2022-10-20 12:11:08,651 - myproject -INFO - Browser quitted
+2022-10-20 16:10:35,634 - myproject -INFO - Reading Excel Sheet
+2022-10-20 16:10:38,121 - myproject -INFO - Execution of sheet number 1
+2022-10-20 16:10:38,129 - myproject -INFO - in func library
+2022-10-20 16:10:40,240 - myproject -INFO - Opened Browser
+2022-10-20 16:10:49,985 - myproject -INFO - im in dropdown
+2022-10-20 16:10:53,372 - myproject -INFO - im in dropdown
+2022-10-20 16:10:53,613 - myproject -INFO - im in dropdown
+2022-10-20 16:10:54,190 - myproject -INFO - im in dropdown
+2022-10-20 16:10:58,893 - myproject -INFO - im in dropdown
+2022-10-20 16:11:00,857 - myproject -INFO - im in texbox
+2022-10-20 16:11:02,370 - myproject -INFO - im in texbox
+2022-10-20 16:11:02,448 - myproject -INFO - im in texbox
+2022-10-20 16:11:02,842 - myproject -INFO - Execution of sheet number 2
+2022-10-20 16:11:04,694 - myproject -INFO - im in dropdown
+2022-10-20 16:11:06,465 - myproject -INFO - im in dropdown
+2022-10-20 16:11:07,023 - myproject -INFO - im in dropdown
+2022-10-20 16:11:07,977 - myproject -INFO - im in texbox
+2022-10-20 16:11:08,321 - myproject -INFO - im in texbox
+2022-10-20 16:11:08,426 - myproject -INFO - im in texbox
+2022-10-20 16:11:08,500 - myproject -INFO - im in texbox
+2022-10-20 16:11:10,100 - myproject -INFO - Execution of sheet number 3
+2022-10-20 16:11:40,156 - myproject -INFO - No pending requests
+2022-10-20 16:11:50,233 - myproject -INFO - No pending requests
+2022-10-20 16:11:50,233 - myproject -INFO - im in dropdown
+2022-10-20 16:11:50,560 - myproject -INFO - im in dropdown
+2022-10-20 16:11:50,929 - myproject -INFO - Execution of sheet number 4
+2022-10-20 16:12:07,609 - myproject -INFO - No pending requests
+2022-10-20 16:12:07,609 - myproject -INFO - im in dropdown
+2022-10-20 16:12:07,966 - myproject -INFO - im in dropdown
+2022-10-20 16:12:08,938 - myproject -INFO - Browser quitted
+2022-10-21 11:57:45,136 - myproject -INFO - Reading Excel Sheet
+2022-10-21 11:57:47,316 - myproject -INFO - Execution of sheet number 1
+2022-10-21 11:57:47,324 - myproject -INFO - in func library
+2022-10-21 11:57:49,377 - myproject -INFO - Opened Browser
+2022-11-14 15:18:33,348 - myproject -INFO - Reading Excel Sheet
+2022-11-14 15:18:35,604 - myproject -INFO - Execution of sheet number 1
+2022-11-14 15:18:35,611 - myproject -INFO - in func library
+2022-11-14 15:18:37,103 - myproject -INFO - Opened Browser
+2022-11-14 15:18:50,908 - myproject -INFO - im in dropdown
+2022-11-14 15:18:51,090 - myproject -INFO - im in dropdown
+2022-11-14 15:18:53,068 - myproject -INFO - im in dropdown
+2022-11-14 15:18:53,571 - myproject -INFO - im in dropdown

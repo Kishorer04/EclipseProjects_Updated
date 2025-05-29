@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;streamsAPI&apos; to &apos;streamAPI&apos;&#x0D;&#x0A;- Original project: &apos;Java8_LAO&apos;&#x0D;&#x0A;- Original element: &apos;Java8_LAO/src/test/java/streamsAPI&apos;&#x0D;&#x0A;- Renamed element: &apos;Java8_LAO/src/test/java/streamAPI&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;streamsAPI&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;streamsAPI" name="streamAPI" qualified="false" references="true" stamp="1723748136001" textual="false" version="1.0"/>
+</session>

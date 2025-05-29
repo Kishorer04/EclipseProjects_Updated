@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Test Suite" verbose="2" parallel="methods" thread-count="2">
+
+<listeners>
+<listener class-name="testNG.ListenersExample"></listener>
+</listeners>
+
+<test name="Test Cases">
+<classes>
+<class name="testNG.SampleTestCase"></class>
+</classes>		
+</test>
+</suite>
+
+<!--<parameter name="Name" value="Kishore"></parameter>-->
+
+<!--<class name="testNG.ParameterizationExample"></class>-->
+
+<!--<groups>
+<run>
+<include name="Apple"></include>
+<include name="Lenovo"></include>
+<exclude name="Moto"></exclude>
+<exclude name="Vivo"></exclude>	
+</run>
+</groups>-->
+	
+<!--<class name="testNG.DependenciesManagement"></class>
+<class name="testNG.DriveACar"></class>
+<class name="testNG.SampleTestCase"></class>
+<class name="testNG.SkipATest"></class>
+<class name="testNG.SuiteExample"></class>
+<class name="testNG.GroupingExample"></class>-->	
+

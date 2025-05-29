@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;practicelinkedlist&apos; to &apos;practice&apos;&#x0D;&#x0A;- Original project: &apos;PracticeDSA&apos;&#x0D;&#x0A;- Original element: &apos;PracticeDSA/src/test/java/practicelinkedlist&apos;&#x0D;&#x0A;- Renamed element: &apos;PracticeDSA/src/test/java/practice&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;practicelinkedlist&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;practicelinkedlist" name="practice" qualified="false" references="true" stamp="1737742136094" textual="false" version="1.0"/>
+</session>

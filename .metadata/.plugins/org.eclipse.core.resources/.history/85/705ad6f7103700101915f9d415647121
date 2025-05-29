@@ -1,0 +1,75 @@
+package day4;
+
+import static io.restassured.RestAssured.given;
+
+import org.json.JSONObject;
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import io.restassured.http.ContentType;
+import io.restassured.response.Response;
+
+
+public class ParsingJsonResponseData {
+	
+	//@Test(priority=1)
+	void testJsonResponse() {
+		
+		//Approach 1
+		/*
+		 
+		given()
+		.contentType(ContentType.JSON)
+		
+		.when()
+		.get("https://reqres.in/api/users?page=2")
+		
+		.then()
+		.statusCode(200)
+		.header("Content-Type", "application/json; charset=utf-8")
+		.body("data[2].last_name", equalTo("Funke"));
+		
+		*/
+	
+	    //Approach 2
+		
+		Response res = given()
+		.contentType(ContentType.JSON)
+		
+		.when()
+		.get("https://reqres.in/api/users?page=2");
+		
+		Assert.assertEquals(res.getStatusCode(),200); //validation 1
+		Assert.assertEquals(res.header("Content-Type"), "application/json; charset=utf-8"); //validation 2
+		String lastName = res.jsonPath().get("data[2].last_name").toString();
+		Assert.assertEquals(lastName, "Funke");
+	
+	}
+	
+	
+	@Test(priority=2)
+	void testJsonResponseBodyData() {
+		
+		//Approach 3
+		
+		Response res = given()
+				.contentType(ContentType.JSON)
+				
+				.when()
+				.get("https://reqres.in/api/users?page=2");
+		
+		JSONObject jsonObject = new JSONObject(res.asString());  //conversion of response into json object type
+		                                       // Using asString() bcoz it returns the actual response body as a plain String
+		                                       // toString() returns a summary string about the response object (e.g., memory address or class info)
+											   // It does not give the actual response content.
+		for(int i=0;i<jsonObject.getJSONArray("data").length();i++)
+		{
+			String lastName = jsonObject.getJSONArray("data").getJSONObject(i).get("last_name").toString();
+			System.out.println(lastName);
+		}
+		
+				
+			
+	}
+
+}

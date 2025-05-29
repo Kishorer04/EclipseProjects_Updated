@@ -1,0 +1,33 @@
+package practicelinkedlist;
+
+public class DoublyLinkedList {
+	Node head;
+	Node tail;
+	
+	DoublyLinkedList(){
+		head=null;
+		tail=null;
+	}
+	
+	class Node{
+		int data;
+		Node next;
+		Node prev;
+		
+		Node(int val){
+			data=val;
+			next=null;
+			prev=null;
+		}
+		
+	}
+	
+	public void insertAtBeginning(int val) {
+		
+		Node newNode =new Node(val);
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,5 @@
+[INFO ] 2024-06-07 19:26:08.556 [main] LoggerDemoClass - Hello world
+[DEBUG] 2024-06-07 19:26:08.560 [main] LoggerDemoClass - Hi debug
+[ERROR] 2024-06-07 19:26:08.560 [main] LoggerDemoClass - Hi error
+[WARN ] 2024-06-07 19:26:08.560 [main] LoggerDemoClass - warn
+[INFO ] 2024-06-07 19:26:08.560 [main] LoggerDemoClass - Good

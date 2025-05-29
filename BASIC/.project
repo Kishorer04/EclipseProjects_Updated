@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>BASIC</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>lib/mssql-jdbc-11.2.0.jre18.jar</name>
+			<type>1</type>
+			<location>C:/Users/kravikumar/Downloads/mssql-jdbc-11.2.0.jre18.jar</location>
+		</link>
+	</linkedResources>
+</projectDescription>

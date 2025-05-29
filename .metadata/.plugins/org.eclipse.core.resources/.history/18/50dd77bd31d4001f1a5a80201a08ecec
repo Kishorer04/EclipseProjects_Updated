@@ -1,0 +1,20 @@
+package practicelinkedlist;
+
+public class DoublyLinkedList {
+	Node head;
+	Node tail;
+	
+	class Node{
+		int data;
+		Node next;
+		Node prev;
+		
+		Node(int val){
+			data=val;
+			next=null;
+			prev=null;
+		}
+		
+	}
+
+}

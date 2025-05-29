@@ -1,0 +1,40 @@
+2022-11-30 13:06:34,707 - Default test -INFO - Chrome opened
+2022-11-30 13:06:42,415 - Default test -INFO - Google opened in chrome
+2022-11-30 13:07:09,247 - Default test -INFO - send keys
+2022-11-30 13:08:34,696 - Default test -INFO - Chrome opened
+2022-11-30 13:08:45,085 - Default test -INFO - Google opened in chrome
+2022-11-30 13:09:07,044 - Default test -INFO - send keys
+2022-11-30 13:15:15,616 - Default test -INFO - Chrome opened
+2022-11-30 13:15:17,070 - Default test -INFO - Google opened in chrome
+2022-11-30 14:11:02,770 - Default test -INFO - Chrome opened
+2022-11-30 14:11:04,030 - Default test -INFO - Google opened in chrome
+2022-11-30 14:11:06,802 - Default test -INFO - send keys
+2022-11-30 14:20:07,993 - Chrome -INFO - Chrome opened
+2022-11-30 14:20:09,345 - Chrome -INFO - Google opened in chrome
+2022-11-30 14:20:12,275 - Chrome -INFO - send keys
+2022-11-30 14:28:34,610 - Chrome -INFO - Chrome opened
+2022-11-30 14:28:35,743 - Chrome -INFO - Google opened in chrome
+2022-11-30 14:28:38,376 - Chrome -INFO - send keys
+2022-11-30 14:29:26,549 - firefox -INFO - Opened browser
+2022-11-30 14:29:26,690 - firefox -INFO - send keys firefox
+2022-11-30 14:34:21,291 - firefox -INFO - Opened browser
+2022-11-30 14:34:21,469 - firefox -INFO - send keys firefox
+2022-11-30 14:37:08,688 - edge -INFO - Edge browser opened
+2022-11-30 14:37:11,237 - edge -INFO - Edge sent input
+2022-11-30 14:37:33,060 - Chrome -INFO - Chrome opened
+2022-11-30 14:37:35,982 - edge -INFO - Edge browser opened
+2022-11-30 14:37:36,250 - Chrome -INFO - Google opened in chrome
+2022-11-30 14:37:38,574 - edge -INFO - Edge sent input
+2022-11-30 14:37:39,103 - firefox -INFO - Opened browser
+2022-11-30 14:37:39,246 - firefox -INFO - send keys firefox
+2022-11-30 14:37:40,544 - Chrome -INFO - send keys
+2022-12-02 11:32:17,250 - Chrome -INFO - Chrome opened
+2022-12-02 11:32:18,961 - edge -INFO - Edge browser opened
+2022-12-02 11:32:19,913 - Chrome -INFO - Google opened in chrome
+2022-12-02 11:32:21,768 - edge -INFO - Edge sent input
+2022-12-02 11:32:23,181 - Chrome -INFO - send keys
+2022-12-02 11:32:26,562 - firefox -INFO - Opened browser
+2022-12-02 11:32:26,911 - firefox -INFO - send keys firefox
+2022-12-02 11:38:36,400 - Chrome -INFO - Chrome opened
+2022-12-02 11:38:38,098 - Chrome -INFO - Google opened in chrome
+2022-12-02 11:38:40,938 - Chrome -INFO - send keys
