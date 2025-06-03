@@ -1,6 +1,7 @@
 package day4;
 
 import static io.restassured.RestAssured.given;
+import static org.hamcrest.Matchers.equalTo;
 
 import org.json.JSONObject;
 import org.testng.Assert;
@@ -16,8 +17,7 @@ public class ParsingJsonResponseData {
 	void testJsonResponse() {
 		
 		//Approach 1
-		/*
-		 
+		
 		given()
 		.contentType(ContentType.JSON)
 		
@@ -30,7 +30,6 @@ public class ParsingJsonResponseData {
 		.body("data[2].last_name", equalTo("Funke"))
 		.log().all();
 		
-		*/
 	
 	    //Approach 2
 		
