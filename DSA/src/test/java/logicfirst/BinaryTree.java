@@ -3,6 +3,7 @@ package logicfirst;
 public class BinaryTree {
 
 	Node root;
+	
 	class Node{
 		int data;
 		Node left,right;
