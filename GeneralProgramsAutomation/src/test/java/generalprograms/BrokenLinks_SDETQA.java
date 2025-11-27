@@ -20,9 +20,7 @@ public class BrokenLinks_SDETQA {
 	 * 
 	 * Definition: Broken Link is a link which does not have a resource in the server
 	 */
-
 	public static void main(String[] args) {
-		
 		WebDriver driver = new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.get("https://www.hyrtutorials.com/");
@@ -44,7 +42,6 @@ public class BrokenLinks_SDETQA {
         		System.out.println("href attribute value is null or empty. So not possible to check");
         		continue;
         	}
-        	
         	// Hit URL to the server
         	try 
         	{
@@ -66,5 +63,4 @@ public class BrokenLinks_SDETQA {
         }
         System.out.println("Number of Broken links: "+noOfBrokenLinks);
  	}
-
 }

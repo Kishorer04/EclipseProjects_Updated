@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
+    <entry loc="C:\Users\kravikumar\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.0.v20250930-1716\jre" stamp="1762518895166"/>
     <entry loc="C:\Program Files\openlogic-openjdk-17.0.10+7-windows-x64\openlogic-openjdk-17.0.10+7-windows-x64" stamp="1710770468948"/>
     <entry loc="C:\Users\kravikumar\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_22.0.1.v20240426-1149" stamp="1718733104702"/>
+    <entry loc="C:\Program Files (x86)\Eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.7.v20250502-0916" stamp="1762436846946"/>
     <entry loc="C:\Users\kravikumar\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_22.0.1.v20240426-1149\jre" stamp="1718733104698"/>
+    <entry loc="C:\Program Files (x86)\Eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.7.v20250502-0916\jre" stamp="1762436824862"/>
+    <entry loc="C:\Users\kravikumar\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.0.v20250930-1716" stamp="1762518895181"/>
 </dirs>
