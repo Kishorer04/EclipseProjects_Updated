@@ -2,7 +2,6 @@ package com.tutorial.fluentwait;
 
 import java.time.Duration;
 import java.util.function.Function;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
@@ -12,9 +11,8 @@ import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Wait;
 
 public class FluentWaitDemo {
-
 	public static void main(String[] args) {
-	
+
 	WebDriver driver =new ChromeDriver();
 	driver.get("https://www.google.com");
 	
@@ -23,22 +21,49 @@ public class FluentWaitDemo {
     .pollingEvery(Duration.ofSeconds(2))
     .ignoring(NoSuchElementException.class);
     
-    
     WebElement profile =wait.until(new Function<WebDriver, WebElement>() {
-
 		@Override
 		public WebElement apply(WebDriver driver) {
 			return driver.findElement(By.xpath("")) ;
-		}
-	    	
+		}  	
     });
-  
     profile.click();
-    
-    
-    
-    
-   
-	}
 
+//////////////////////////////////////////////////////////////////////////////
+
+//	WebDriver driver =new ChromeDriver();
+//	driver.get("https://www.google.com");
+//	
+//    Wait<WebDriver> wait = new FluentWait<WebDriver>(driver);
+//    ((FluentWait<WebDriver>) wait).withTimeout(Duration.ofSeconds(30));
+//    ((FluentWait<WebDriver>) wait).pollingEvery(Duration.ofSeconds(2));
+//    ((FluentWait<WebDriver>) wait).ignoring(NoSuchElementException.class);
+//  
+//    WebElement profile =wait.until(new Function<WebDriver, WebElement>() {
+//		@Override
+//		public WebElement apply(WebDriver driver) {
+//			return driver.findElement(By.xpath("")) ;
+//		}	
+//    });
+//  
+//    profile.click();
+
+///////////////////////////////////////////////////////////////////////////////
+
+//	WebDriver driver = new ChromeDriver();
+//	driver.get("https://www.google.com");
+//
+//	FluentWait<WebDriver> wait = new FluentWait<WebDriver>(driver);
+//	wait.withTimeout(Duration.ofSeconds(30));
+//	wait.pollingEvery(Duration.ofSeconds(2));
+//	wait.ignoring(NoSuchElementException.class);
+//
+//	WebElement profile = wait.until(new Function<WebDriver, WebElement>() {
+//		@Override
+//		public WebElement apply(WebDriver driver) {
+//			return driver.findElement(By.xpath(""));
+//		}
+//	});
+//	profile.click();
+	}
 }

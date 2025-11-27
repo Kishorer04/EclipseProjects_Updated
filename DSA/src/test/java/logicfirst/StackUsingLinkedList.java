@@ -25,7 +25,7 @@ public class StackUsingLinkedList {
 		top=newNode;
 	}
 	
-	public int pop() {
+	public int pop() {    // Remove the latest data in the stack and have to change the top
 		if(top==null)
 			throw new IndexOutOfBoundsException("Stack is empty");
 		int temp = top.data;
@@ -37,7 +37,7 @@ public class StackUsingLinkedList {
 		return top==null;
 	}
 	
-	public int peek() {
+	public int peek() {   //Show only the latest data in the stack
 		return top.data;
 	}
 	
