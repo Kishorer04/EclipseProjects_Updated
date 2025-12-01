@@ -18,7 +18,7 @@ public class screen {
  
 	@Test
   public void f() {
-	 WebDriverManager.chromedriver().setup();
+//	 WebDriverManager.chromedriver().setup();
 	 driver = new ChromeDriver();
 	 driver.get("https://google.com/");
 	 driver.manage().window().maximize();
@@ -28,7 +28,8 @@ public class screen {
 	@Test
 public void f2() throws IOException {
 	try {
-	driver.findElement(By.xpath("//input[@title='Search']")).sendKeys("selenium");
+	driver.findElement(By.xpath("//textarea[@title='Search']")).sendKeys("selenium");
+	Thread.sleep(5000);
 	}catch(Exception e) {
 		
 		TakesScreenshot ts=(TakesScreenshot)driver;
