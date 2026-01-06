@@ -18,6 +18,8 @@ public class HandleIFrames {
 		
 		page.navigate("https://demo.automationtesting.in/Frames.html");
 		
+		// The tag in the html dom can be 'iframe' or 'frame' also sometimes. It depends on the webpage
+		
 		page.locator("//a[normalize-space(text())='Single Iframe']").click();
 		
 		List<Frame> allIFrames = page.frames();

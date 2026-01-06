@@ -22,6 +22,10 @@ public class HandleShadowDOM {
 		
 		// We don't have any dedicated method to switch to Shadow DOM and do the actions. Playwright automatically switches
 		// and it will automatically perform actions using the concept called Auto-Piercing
+		
+//		In Playwright (Java & JavaScript), we don’t need to worry about normal or nested open Shadow DOM etc. Using page.locator() is enough—Playwright automatically pierces open Shadow DOM and performs actions. 
+//		Only closed Shadow DOM is not accessible.
+		
 		/*
 		Locator shadowRoot = page.locator("div#userName");
 		

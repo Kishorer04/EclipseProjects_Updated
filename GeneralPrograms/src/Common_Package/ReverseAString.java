@@ -1,5 +1,4 @@
 package Common_Package;
-import io.opentelemetry.exporter.logging.SystemOutLogExporter;
 
 public class ReverseAString {
 

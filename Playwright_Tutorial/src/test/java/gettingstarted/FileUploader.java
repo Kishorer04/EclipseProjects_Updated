@@ -16,7 +16,7 @@ public class FileUploader {
 
 		page.navigate("https://the-internet.herokuapp.com/upload");
 		
-		// The upload button/element tag is "input" and type=file
+		// The upload button/element tag is "input" and type=file. For more details refer the screenshot
 		
 		// page.locator("#file-upload").setInputFiles(Path.of(System.getProperty("user.dir")+"/files/ScreenshotImage.png"));
 
