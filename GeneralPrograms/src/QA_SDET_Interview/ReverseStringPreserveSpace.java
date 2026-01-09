@@ -1,4 +1,4 @@
-package Common_Package;
+package QA_SDET_Interview;
 
 import java.util.Scanner;
 

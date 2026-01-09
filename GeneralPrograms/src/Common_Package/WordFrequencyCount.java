@@ -17,12 +17,9 @@ public class WordFrequencyCount {
 				hmap.put(word, hmap.get(word)+1);
 			else
 				hmap.put(word,1);
-			
-			
 		}
 		
 		System.out.println(hmap);
 		
 	}
-
 }

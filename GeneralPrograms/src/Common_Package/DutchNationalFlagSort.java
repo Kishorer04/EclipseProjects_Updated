@@ -2,9 +2,11 @@ package Common_Package;
 
 import java.util.Arrays;
 
+//[Expected Approach] Dutch National Flag Algorithm - One Pass - O(n) Time and O(1) Space
+
 public class DutchNationalFlagSort {
 	
-	
+
 	public static void sortNum(int[] arr)
 	{
 		int low =0, mid=0, high=arr.length-1;
@@ -28,10 +30,8 @@ public class DutchNationalFlagSort {
 				high--;
 				break;
 			}
-		}
-		
+		}	
 	}
-	
 	
 	public static void swap(int[] arr, int i, int j) {
 		int temp = arr[i];
@@ -45,13 +45,9 @@ public class DutchNationalFlagSort {
 		int[] arr = {2,0,1,2,1,0,0,2,1};
 		
 		System.out.println("Before Sorting");
-		
 		printArray(arr);
-		
 		sortNum(arr);
-		
 		System.out.println("After Sorting");
-		
 		printArray(arr);
 	}
 	
@@ -64,6 +60,4 @@ public class DutchNationalFlagSort {
 		System.out.println();
 	}
 	
-	
-
 }
