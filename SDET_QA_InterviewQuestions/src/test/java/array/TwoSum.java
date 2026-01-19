@@ -1,0 +1,41 @@
+package array;
+
+import java.util.HashSet;
+
+class TwoSum {
+
+    static boolean twoSum(int[] arr, int target){
+
+        // Create a HashSet to store the elements
+        HashSet<Integer> set = new HashSet<>();
+
+        for (int i = 0; i < arr.length; i++) {
+
+            // Calculate the complement that added to
+            // arr[i], equals the target
+            int complement = target - arr[i];
+
+            // Check if the complement exists in the set
+            if (set.contains(complement)) {
+                return true;
+            }
+
+            // Add the current element to the set
+            set.add(arr[i]);
+//            System.out.println(set);
+        }
+        // If no pair is found
+        return false;
+    }
+
+    public static void main(String[] args){
+
+        int[] arr = { 0, -1, 2, -3, 1 };
+        int target = -2;
+
+        if (twoSum(arr, target))
+            System.out.println("true");
+        else
+            System.out.println("false");
+    }
+}
