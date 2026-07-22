@@ -24,7 +24,8 @@ class DepthOrHeightOfBinaryTree {
         int lHeight = height(root.left);
         int rHeight = height(root.right);
 
-        return Math.max(lHeight, rHeight) + 1;  // Here 1 is used bcoz it is for the current node
+        return Math.max(lHeight, rHeight) + 1;  // Here +1 counts the edge from current node to its child subtree.
+                                                // In our case node 12.
     }
 
     public static void main(String[] args) {

@@ -1,7 +1,6 @@
 package hashCode_Equals;
 
 import java.util.HashSet;
-import java.util.Objects;
 import java.util.Set;
 
 public class Employee2 {
@@ -17,21 +16,26 @@ public class Employee2 {
 	public static void main(String[] args) {
 
 		Employee2 employee1 = new Employee2("Raja", 121);
-		Employee2 employee2 = new Employee2("Mohideen", 121);
+		Employee2 employee2 = new Employee2("Mohideen", 122);
 
 		Set<Employee2> employees = new HashSet();
 		employees.add(employee1);
 		employees.add(employee2);
 		System.out.println(employees);
-
 	}
 
 	@Override
 	public int hashCode() {
-		return Objects.hash(id);          // For comparison only using id
-//       return Objects.hash(name);       // For comparison only using name
-		// return Objects.hash(id, name); // For comparison using both
+     final int prime = 31;
+     int result = 1;
+     result = prime * result + id;
+//     result = prime * result + ((name==null)?0:name.hashCode()); // Commenting this bcoz 
+                                                                   // we want HashCode based
+                                                                   // on id only to avoid
+                                                                   // duplicates in the set
+     return result;
 	}
+	
 
 	@Override
 	public boolean equals(Object obj) {
@@ -41,7 +45,7 @@ public class Employee2 {
 //			return false;
 //		if (getClass() != obj.getClass())
 //			return false;
-		Employee2 other = (Employee2) obj;
+		Employee2 other =  (Employee2) obj;
 		if (id != other.id) // Change 'id' to 'name' for comparison using name 
 			                // instead of id. i.e. if(name!= other.name) 
 			return false;
